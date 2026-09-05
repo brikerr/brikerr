@@ -6,14 +6,16 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 
 ### Currently building
 
-- **[The Context Window](https://the-context-window-two.vercel.app)** — Daily AI news aggregator feeding two editorial newsletters
+- **[The Context Window](https://contextwindow.news)** — Editorial newsletters on AI, powered by a custom aggregator I built
 - **Homeostat** — Privacy-first home sensing with anomaly detection and selective AI reasoning
 - **Sky Oracle** — Local sky imagery summarized for Homeostat
 
-### Writing
+### Latest from The Context Window
 
-- [The Context Window](https://contextwindow.news) — editorial newsletters on AI
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/brikerr)
+- [The Context Window](https://contextwindow.news)
