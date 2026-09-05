@@ -6,7 +6,8 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 
 ### Currently building
 
-- **[The Context Window](https://contextwindow.news)** — Editorial newsletters on AI, powered by a custom aggregator I built
+- **[The Context Window](https://contextwindow.news)** — Curated tech news across AI, hardware, software, design, and science
+- **[Every Espresso](https://www.everyespresso.pro)** — Interactive anatomy of espresso extraction; every shot is a 25-second chemistry experiment
 - **Homeostat** — Privacy-first home sensing with anomaly detection and selective AI reasoning
 - **Sky Oracle** — Local sky imagery summarized for Homeostat
 

@@ -19,6 +19,6 @@ jobs:
         with:
           feed_list: "https://contextwindow.news/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url) — $date"
-          date_format: "mmm dd, yyyy"
+          template: "- [$title]($url)"
+          disable_item_validation: true
           commit_message: "chore: refresh latest posts from The Context Window"
