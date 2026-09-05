@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://contextwindow.news/feed"
+          feed_list: "https://contextwindow.news/feed.xml"
           max_post_count: 5
           template: "- [$title]($url) — $date"
           date_format: "mmm dd, yyyy"
