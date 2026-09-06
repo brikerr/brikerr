@@ -11,6 +11,12 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 - **Homeostat** — Privacy-first anomaly detection with selective AI reasoning
 - **Sky Oracle** — Local sky imagery summarized for Homeostat
 
+### Interactive experiments
+
+- **[Mod-Synth](https://synth.cards)** — Browser-based modular synthesizer. Twelve module types, real patch cables, AudioWorklet audio at 44.1 kHz. [Source](https://github.com/brikerr/Synthesizer)
+- **[Fractals & Chaos](https://fractals-brian-kerrs-projects.vercel.app)** — GPU-accelerated fractal explorer: Mandelbrot, Julia, Burning Ship, Newton. Real-time WebGL shaders with a 3D height map and guided tour. [Source](https://github.com/brikerr/Fractals)
+- **[Ocean Depths](https://ocean-brian-kerrs-projects.vercel.app)** — Interactive visualization of the ocean's five pelagic zones. Light, thermoclines, pressure, bioluminescence, and the SOFAR channel with a narrated tour. [Source](https://github.com/brikerr/Ocean)
+
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
