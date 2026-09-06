@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Your Rotary Telephone From Its Wire](https://contextwindow.news/article/free-your-rotary-telephone-from-its-wire)
-- [COSMAC Elf Turns 50](https://contextwindow.news/article/cosmac-elf-turns-50)
-- [Parchment Paper Paired With 3D-Printed Grid Gives a Nice Glow](https://contextwindow.news/article/parchment-paper-paired-with-3d-printed-grid-gives-a-nice-glow)
-- [Fixing an Expensive Seagate LaCie Hard Drive Array](https://contextwindow.news/article/fixing-an-expensive-seagate-lacie-hard-drive-array)
-- [Gemini overlay gets bubble minimization and multitasking on Android](https://contextwindow.news/article/gemini-overlay-gets-bubble-minimization-and-multitasking-on-android)
+- [WordStar Lives Again (and Again)](https://contextwindow.news/article/wordstar-lives-again-and-again)
+- [There’s Whole Computer Inside This Mouse](https://contextwindow.news/article/theres-whole-computer-inside-this-mouse)
+- [A real review on GPT 6 Astra (Not Another 3D Demo)](https://contextwindow.news/article/a-real-review-on-gpt-6-astra-not-another-3d-demo)
+- [Can AI Now Design PCBs That Just Work?](https://contextwindow.news/article/can-ai-now-design-pcbs-that-just-work)
+- [Running Apple ][ Software on a Commodore 64 — Silently](https://contextwindow.news/article/running-apple-software-on-a-commodore-64-silently)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
