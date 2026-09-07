@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [WordStar Lives Again (and Again)](https://contextwindow.news/article/wordstar-lives-again-and-again)
-- [There’s Whole Computer Inside This Mouse](https://contextwindow.news/article/theres-whole-computer-inside-this-mouse)
-- [A real review on GPT 6 Astra (Not Another 3D Demo)](https://contextwindow.news/article/a-real-review-on-gpt-6-astra-not-another-3d-demo)
-- [Can AI Now Design PCBs That Just Work?](https://contextwindow.news/article/can-ai-now-design-pcbs-that-just-work)
-- [Running Apple ][ Software on a Commodore 64 — Silently](https://contextwindow.news/article/running-apple-software-on-a-commodore-64-silently)
+- [Your product didn’t get worse](https://contextwindow.news/article/your-product-didnt-get-worse)
+- [The First Spacecraft Launched To Orbit From Europe](https://contextwindow.news/article/the-first-spacecraft-launched-to-orbit-from-europe)
+- [Comparing PETG and PCTG Filaments](https://contextwindow.news/article/comparing-petg-and-pctg-filaments)
+- [NES Radar Tracks Flights at 9600 Baud](https://contextwindow.news/article/nes-radar-tracks-flights-at-9600-baud)
+- [How Charged Water Drops Induce Corrosion](https://contextwindow.news/article/how-charged-water-drops-induce-corrosion)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
