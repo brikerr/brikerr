@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Old iPad Keyboard Makes For a Modern Netbook](https://contextwindow.news/article/old-ipad-keyboard-makes-for-a-modern-netbook)
-- [How Bats Prevent Doppler Acoustic Interference](https://contextwindow.news/article/how-bats-prevent-doppler-acoustic-interference)
-- [Kelvin–Helmholtz Instabilities Found to Drive Plasma Mixing on the Sun](https://contextwindow.news/article/kelvin-helmholtz-instabilities-found-to-drive-plasma-mixing-on-the-sun)
-- [ESP32-P4 Powers Video Alarm Clock](https://contextwindow.news/article/esp32-p4-powers-video-alarm-clock)
-- [What’s new in Android’s September 2026 Google System Updates [U]](https://contextwindow.news/article/whats-new-in-androids-september-2026-google-system-updates-u)
+- [Sick of Wayland vs. Xorg? How about GEM?](https://contextwindow.news/article/sick-of-wayland-vs-xorg-how-about-gem)
+- [One Bit Sound with the ZX Spectrum](https://contextwindow.news/article/one-bit-sound-with-the-zx-spectrum)
+- [The Different Ways To Look at Negative Resistance](https://contextwindow.news/article/the-different-ways-to-look-at-negative-resistance)
+- [Anti-Doomscroll Tamagotchi Only Lives if You Do](https://contextwindow.news/article/anti-doomscroll-tamagotchi-only-lives-if-you-do)
+- [Hands-on: Honor’s Robot Phone is probably the coolest phone you still can’t buy](https://contextwindow.news/article/hands-on-honors-robot-phone-is-probably-the-coolest-phone-you-still-cant-buy)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
