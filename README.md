@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Sick of Wayland vs. Xorg? How about GEM?](https://contextwindow.news/article/sick-of-wayland-vs-xorg-how-about-gem)
-- [One Bit Sound with the ZX Spectrum](https://contextwindow.news/article/one-bit-sound-with-the-zx-spectrum)
-- [The Different Ways To Look at Negative Resistance](https://contextwindow.news/article/the-different-ways-to-look-at-negative-resistance)
-- [Anti-Doomscroll Tamagotchi Only Lives if You Do](https://contextwindow.news/article/anti-doomscroll-tamagotchi-only-lives-if-you-do)
-- [Hands-on: Honor’s Robot Phone is probably the coolest phone you still can’t buy](https://contextwindow.news/article/hands-on-honors-robot-phone-is-probably-the-coolest-phone-you-still-cant-buy)
+- [If It’s Electronic Paper, Why Not Print To It?](https://contextwindow.news/article/if-its-electronic-paper-why-not-print-to-it)
+- [iPhone 18 Pro/Duo Impressions: Mogged](https://contextwindow.news/article/iphone-18-produo-impressions-mogged)
+- [Origami Sensors That You Can Wear](https://contextwindow.news/article/origami-sensors-that-you-can-wear)
+- [3D Printable Lenticular Indicators](https://contextwindow.news/article/3d-printable-lenticular-indicators)
+- [Apple made fun of Android apps on foldables, but iPhone Duo has the same problem [Gallery]](https://contextwindow.news/article/apple-made-fun-of-android-apps-on-foldables-but-iphone-duo-has-the-same-problem-gallery)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
