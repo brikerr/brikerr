@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [If It’s Electronic Paper, Why Not Print To It?](https://contextwindow.news/article/if-its-electronic-paper-why-not-print-to-it)
-- [iPhone 18 Pro/Duo Impressions: Mogged](https://contextwindow.news/article/iphone-18-produo-impressions-mogged)
-- [Origami Sensors That You Can Wear](https://contextwindow.news/article/origami-sensors-that-you-can-wear)
-- [3D Printable Lenticular Indicators](https://contextwindow.news/article/3d-printable-lenticular-indicators)
-- [Apple made fun of Android apps on foldables, but iPhone Duo has the same problem [Gallery]](https://contextwindow.news/article/apple-made-fun-of-android-apps-on-foldables-but-iphone-duo-has-the-same-problem-gallery)
+- [This Circuit Sculpture is an ESP32-Powered Console](https://contextwindow.news/article/this-circuit-sculpture-is-an-esp32-powered-console)
+- [Lara Croft on a Microcontroller](https://contextwindow.news/article/lara-croft-on-a-microcontroller)
+- [Changing Nozzle Internal Geometry to Increase FDM Flowrate](https://contextwindow.news/article/changing-nozzle-internal-geometry-to-increase-fdm-flowrate)
+- [The AI  safety vibe shift](https://contextwindow.news/article/the-ai-safety-vibe-shift)
+- [Creating a Custom Hinge for a Motorbike’s Fuel Access Panel](https://contextwindow.news/article/creating-a-custom-hinge-for-a-motorbikes-fuel-access-panel)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
