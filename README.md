@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [This Circuit Sculpture is an ESP32-Powered Console](https://contextwindow.news/article/this-circuit-sculpture-is-an-esp32-powered-console)
-- [Lara Croft on a Microcontroller](https://contextwindow.news/article/lara-croft-on-a-microcontroller)
-- [Changing Nozzle Internal Geometry to Increase FDM Flowrate](https://contextwindow.news/article/changing-nozzle-internal-geometry-to-increase-fdm-flowrate)
-- [The AI  safety vibe shift](https://contextwindow.news/article/the-ai-safety-vibe-shift)
-- [Creating a Custom Hinge for a Motorbike’s Fuel Access Panel](https://contextwindow.news/article/creating-a-custom-hinge-for-a-motorbikes-fuel-access-panel)
+- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://contextwindow.news/article/perplexity-trusts-gpt-6-astra-with-end-to-end-systems)
+- [Looking at a TRS-80 12 MB External Hard Drive from 1983](https://contextwindow.news/article/looking-at-a-trs-80-12-mb-external-hard-drive-from-1983)
+- [All The Best Computers Boot To… Python?](https://contextwindow.news/article/all-the-best-computers-boot-to-python)
+- [How To Fold Curved Lines in Metal Without Fancy Tools](https://contextwindow.news/article/how-to-fold-curved-lines-in-metal-without-fancy-tools)
+- [Trying to Fix a Suspiciously Cheap Enterprise-Grade Network Switch](https://contextwindow.news/article/trying-to-fix-a-suspiciously-cheap-enterprise-grade-network-switch)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
