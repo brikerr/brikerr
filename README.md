@@ -21,10 +21,10 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 
 <!-- BLOG-POST-LIST:START -->
 - [Perplexity trusts GPT-6 Astra with end-to-end systems](https://contextwindow.news/article/perplexity-trusts-gpt-6-astra-with-end-to-end-systems)
-- [Looking at a TRS-80 12 MB External Hard Drive from 1983](https://contextwindow.news/article/looking-at-a-trs-80-12-mb-external-hard-drive-from-1983)
-- [All The Best Computers Boot To… Python?](https://contextwindow.news/article/all-the-best-computers-boot-to-python)
-- [How To Fold Curved Lines in Metal Without Fancy Tools](https://contextwindow.news/article/how-to-fold-curved-lines-in-metal-without-fancy-tools)
-- [Trying to Fix a Suspiciously Cheap Enterprise-Grade Network Switch](https://contextwindow.news/article/trying-to-fix-a-suspiciously-cheap-enterprise-grade-network-switch)
+- [Keeping Time on Tumbling Icosahedra](https://contextwindow.news/article/keeping-time-on-tumbling-icosahedra)
+- [Whip-Cracking Machine Reliably Breaks the Sound Barrier](https://contextwindow.news/article/whip-cracking-machine-reliably-breaks-the-sound-barrier)
+- [Spin FV-1 Emulator Simplifies Sound Pedal Development](https://contextwindow.news/article/spin-fv-1-emulator-simplifies-sound-pedal-development)
+- [2026 Retrocomputing Challenge: 16-Bit Homebrew Relay Computer](https://contextwindow.news/article/2026-retrocomputing-challenge-16-bit-homebrew-relay-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
