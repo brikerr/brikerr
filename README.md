@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://contextwindow.news/article/perplexity-trusts-gpt-6-astra-with-end-to-end-systems)
-- [Keeping Time on Tumbling Icosahedra](https://contextwindow.news/article/keeping-time-on-tumbling-icosahedra)
-- [Whip-Cracking Machine Reliably Breaks the Sound Barrier](https://contextwindow.news/article/whip-cracking-machine-reliably-breaks-the-sound-barrier)
-- [Spin FV-1 Emulator Simplifies Sound Pedal Development](https://contextwindow.news/article/spin-fv-1-emulator-simplifies-sound-pedal-development)
-- [2026 Retrocomputing Challenge: 16-Bit Homebrew Relay Computer](https://contextwindow.news/article/2026-retrocomputing-challenge-16-bit-homebrew-relay-computer)
+- [It’s The Speech Synthesiser You Wanted, For The Computer You Had](https://contextwindow.news/article/its-the-speech-synthesiser-you-wanted-for-the-computer-you-had)
+- [How Fyxer built an AI executive assistant people trust](https://contextwindow.news/article/how-fyxer-built-an-ai-executive-assistant-people-trust)
+- [CircuitPython Goes Turbo With Precompiled Functions](https://contextwindow.news/article/circuitpython-goes-turbo-with-precompiled-functions)
+- [Changelog IRL @ PlanetScale (Sept 17, 2026)](https://contextwindow.news/article/changelog-irl-planetscale-sept-17-2026)
+- [Dramatically Increasing Usable Closet Space](https://contextwindow.news/article/dramatically-increasing-usable-closet-space)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
