@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s The Speech Synthesiser You Wanted, For The Computer You Had](https://contextwindow.news/article/its-the-speech-synthesiser-you-wanted-for-the-computer-you-had)
-- [How Fyxer built an AI executive assistant people trust](https://contextwindow.news/article/how-fyxer-built-an-ai-executive-assistant-people-trust)
-- [CircuitPython Goes Turbo With Precompiled Functions](https://contextwindow.news/article/circuitpython-goes-turbo-with-precompiled-functions)
-- [Changelog IRL @ PlanetScale (Sept 17, 2026)](https://contextwindow.news/article/changelog-irl-planetscale-sept-17-2026)
-- [Dramatically Increasing Usable Closet Space](https://contextwindow.news/article/dramatically-increasing-usable-closet-space)
+- [Every ZX81 Expansion Card You Ever Wanted, All At Once](https://contextwindow.news/article/every-zx81-expansion-card-you-ever-wanted-all-at-once)
+- [Samsung’s taking a “More is More” approach to foldable competition](https://contextwindow.news/article/samsungs-taking-a-more-is-more-approach-to-foldable-competition)
+- [Fixing a Ubiquiti 16-Port PoE Switch With an Extra Hole](https://contextwindow.news/article/fixing-a-ubiquiti-16-port-poe-switch-with-an-extra-hole)
+- [An Open Heart Rate Monitor](https://contextwindow.news/article/an-open-heart-rate-monitor)
+- [Writing an ESP32 Bluetooth Printer Driver In Two Acts](https://contextwindow.news/article/writing-an-esp32-bluetooth-printer-driver-in-two-acts)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
