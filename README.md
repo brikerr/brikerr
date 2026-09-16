@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Every ZX81 Expansion Card You Ever Wanted, All At Once](https://contextwindow.news/article/every-zx81-expansion-card-you-ever-wanted-all-at-once)
-- [Samsung’s taking a “More is More” approach to foldable competition](https://contextwindow.news/article/samsungs-taking-a-more-is-more-approach-to-foldable-competition)
-- [Fixing a Ubiquiti 16-Port PoE Switch With an Extra Hole](https://contextwindow.news/article/fixing-a-ubiquiti-16-port-poe-switch-with-an-extra-hole)
-- [An Open Heart Rate Monitor](https://contextwindow.news/article/an-open-heart-rate-monitor)
-- [Writing an ESP32 Bluetooth Printer Driver In Two Acts](https://contextwindow.news/article/writing-an-esp32-bluetooth-printer-driver-in-two-acts)
+- [Full-Color Looks Great on 3D Printed Sliding Puzzles](https://contextwindow.news/article/full-color-looks-great-on-3d-printed-sliding-puzzles)
+- [Round AMOLED Badge Does All Kinds Of Cool Stuff](https://contextwindow.news/article/round-amoled-badge-does-all-kinds-of-cool-stuff)
+- [A Super-Accurate Clock Using a Tiny Microcontroller](https://contextwindow.news/article/a-super-accurate-clock-using-a-tiny-microcontroller)
+- [Tips To Model Your Next CNC Cabinet in CAD Before Buying Anything](https://contextwindow.news/article/tips-to-model-your-next-cnc-cabinet-in-cad-before-buying-anything)
+- [Coffee Maker Steam Wand Gets a Safe Outlet](https://contextwindow.news/article/coffee-maker-steam-wand-gets-a-safe-outlet)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
