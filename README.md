@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Color Looks Great on 3D Printed Sliding Puzzles](https://contextwindow.news/article/full-color-looks-great-on-3d-printed-sliding-puzzles)
-- [Round AMOLED Badge Does All Kinds Of Cool Stuff](https://contextwindow.news/article/round-amoled-badge-does-all-kinds-of-cool-stuff)
-- [A Super-Accurate Clock Using a Tiny Microcontroller](https://contextwindow.news/article/a-super-accurate-clock-using-a-tiny-microcontroller)
-- [Tips To Model Your Next CNC Cabinet in CAD Before Buying Anything](https://contextwindow.news/article/tips-to-model-your-next-cnc-cabinet-in-cad-before-buying-anything)
-- [Coffee Maker Steam Wand Gets a Safe Outlet](https://contextwindow.news/article/coffee-maker-steam-wand-gets-a-safe-outlet)
+- [An Enhanced Game Boy Advance](https://contextwindow.news/article/an-enhanced-game-boy-advance)
+- [Google Home just became a power user’s paradise](https://contextwindow.news/article/google-home-just-became-a-power-users-paradise)
+- [Printing a Clock Fit for a Pope](https://contextwindow.news/article/printing-a-clock-fit-for-a-pope)
+- [Recreating Unobtainable Diagnostic Tools For The Jaguar XJ220](https://contextwindow.news/article/recreating-unobtainable-diagnostic-tools-for-the-jaguar-xj220)
+- [Introducing the Periodic Table of US Electrical Receptacles](https://contextwindow.news/article/introducing-the-periodic-table-of-us-electrical-receptacles)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
