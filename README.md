@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [An Enhanced Game Boy Advance](https://contextwindow.news/article/an-enhanced-game-boy-advance)
-- [Google Home just became a power user’s paradise](https://contextwindow.news/article/google-home-just-became-a-power-users-paradise)
-- [Printing a Clock Fit for a Pope](https://contextwindow.news/article/printing-a-clock-fit-for-a-pope)
-- [Recreating Unobtainable Diagnostic Tools For The Jaguar XJ220](https://contextwindow.news/article/recreating-unobtainable-diagnostic-tools-for-the-jaguar-xj220)
-- [Introducing the Periodic Table of US Electrical Receptacles](https://contextwindow.news/article/introducing-the-periodic-table-of-us-electrical-receptacles)
+- [TV Audio Tube Makes a Transceiver](https://contextwindow.news/article/tv-audio-tube-makes-a-transceiver)
+- [Building a DIY Centrifuge For Blood Processing](https://contextwindow.news/article/building-a-diy-centrifuge-for-blood-processing)
+- [Pixel Now Playing update brings interface tweaks & notifications [U]](https://contextwindow.news/article/pixel-now-playing-update-brings-interface-tweaks-and-notifications-u)
+- [Surveillance Camera Security?  It’s Completely Flocked!](https://contextwindow.news/article/surveillance-camera-security-its-completely-flocked)
+- [What was Hard Fork?](https://contextwindow.news/article/what-was-hard-fork)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
