@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [No GPU, No Problem: Flagship LLMs on a GPU-less Teenaged Server](https://contextwindow.news/article/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server)
-- [Teardown and Repair of an Insoma Water Timer](https://contextwindow.news/article/teardown-and-repair-of-an-insoma-water-timer)
-- [Laser Your Way into Debug Mode on the RP2350](https://contextwindow.news/article/laser-your-way-into-debug-mode-on-the-rp2350)
-- [A Hotspot Becomes A Handheld](https://contextwindow.news/article/a-hotspot-becomes-a-handheld)
-- [Coreboot Hikes the Bay Trail to DRAM Initialization](https://contextwindow.news/article/coreboot-hikes-the-bay-trail-to-dram-initialization)
+- [Raspberry Pi Locks Down RAM Upgrades](https://contextwindow.news/article/raspberry-pi-locks-down-ram-upgrades)
+- [Tiny Scratch-Built Cyberdeck is in Mint Condition](https://contextwindow.news/article/tiny-scratch-built-cyberdeck-is-in-mint-condition)
+- [A Computer Terminal the Old Way](https://contextwindow.news/article/a-computer-terminal-the-old-way)
+- [New Research Suggests that a Neutrino Laser is Impossible](https://contextwindow.news/article/new-research-suggests-that-a-neutrino-laser-is-impossible)
+- [The Mazda Suitcase Car Rides Again](https://contextwindow.news/article/the-mazda-suitcase-car-rides-again)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
