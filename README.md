@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Locks Down RAM Upgrades](https://contextwindow.news/article/raspberry-pi-locks-down-ram-upgrades)
-- [Tiny Scratch-Built Cyberdeck is in Mint Condition](https://contextwindow.news/article/tiny-scratch-built-cyberdeck-is-in-mint-condition)
-- [A Computer Terminal the Old Way](https://contextwindow.news/article/a-computer-terminal-the-old-way)
-- [New Research Suggests that a Neutrino Laser is Impossible](https://contextwindow.news/article/new-research-suggests-that-a-neutrino-laser-is-impossible)
-- [The Mazda Suitcase Car Rides Again](https://contextwindow.news/article/the-mazda-suitcase-car-rides-again)
+- [How Pixar Stopped Worrying and Learned to Love Linux](https://contextwindow.news/article/how-pixar-stopped-worrying-and-learned-to-love-linux)
+- [A JavaScript OS for the ESP32](https://contextwindow.news/article/a-javascript-os-for-the-esp32)
+- [Myst on the Atari 2600](https://contextwindow.news/article/myst-on-the-atari-2600)
+- [Why Raindrops Make for Pretty Good Antennae](https://contextwindow.news/article/why-raindrops-make-for-pretty-good-antennae)
+- [ESP32 Replacement for Lighting Display Controller](https://contextwindow.news/article/esp32-replacement-for-lighting-display-controller)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
