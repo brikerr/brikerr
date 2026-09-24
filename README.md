@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [How Pixar Stopped Worrying and Learned to Love Linux](https://contextwindow.news/article/how-pixar-stopped-worrying-and-learned-to-love-linux)
-- [A JavaScript OS for the ESP32](https://contextwindow.news/article/a-javascript-os-for-the-esp32)
-- [Myst on the Atari 2600](https://contextwindow.news/article/myst-on-the-atari-2600)
-- [Why Raindrops Make for Pretty Good Antennae](https://contextwindow.news/article/why-raindrops-make-for-pretty-good-antennae)
-- [ESP32 Replacement for Lighting Display Controller](https://contextwindow.news/article/esp32-replacement-for-lighting-display-controller)
+- [Solar Powered Traffic Monitoring](https://contextwindow.news/article/solar-powered-traffic-monitoring)
+- [Reconstructing Device Firmware from SPI Reads](https://contextwindow.news/article/reconstructing-device-firmware-from-spi-reads)
+- [Audio Spectrum Analyzer on an ESP32 Display Board](https://contextwindow.news/article/audio-spectrum-analyzer-on-an-esp32-display-board)
+- [Meta is launching ‘VR Glasses’ next year for $1,300](https://contextwindow.news/article/meta-is-launching-vr-glasses-next-year-for-dollar1300)
+- [Meta launches audio-only glasses and Gen 3 Ray-Ban with slimmer designs](https://contextwindow.news/article/meta-launches-audio-only-glasses-and-gen-3-ray-ban-with-slimmer-designs)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
