@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar Powered Traffic Monitoring](https://contextwindow.news/article/solar-powered-traffic-monitoring)
-- [Reconstructing Device Firmware from SPI Reads](https://contextwindow.news/article/reconstructing-device-firmware-from-spi-reads)
-- [Audio Spectrum Analyzer on an ESP32 Display Board](https://contextwindow.news/article/audio-spectrum-analyzer-on-an-esp32-display-board)
-- [Meta is launching ‘VR Glasses’ next year for $1,300](https://contextwindow.news/article/meta-is-launching-vr-glasses-next-year-for-dollar1300)
-- [Meta launches audio-only glasses and Gen 3 Ray-Ban with slimmer designs](https://contextwindow.news/article/meta-launches-audio-only-glasses-and-gen-3-ray-ban-with-slimmer-designs)
+- [What Should Pine64 Build With Microcontrollers?](https://contextwindow.news/article/what-should-pine64-build-with-microcontrollers)
+- [Commodore 128 Becomes Marine Vessel Tracker](https://contextwindow.news/article/commodore-128-becomes-marine-vessel-tracker)
+- [GM’s Experimental EV from 1969](https://contextwindow.news/article/gms-experimental-ev-from-1969)
+- [Opus 5.5 vs GPT-6-Sol and Luna](https://contextwindow.news/article/opus-55-vs-gpt-6-sol-and-luna)
+- [Can Muse make us forget the metaverse?](https://contextwindow.news/article/can-muse-make-us-forget-the-metaverse)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
