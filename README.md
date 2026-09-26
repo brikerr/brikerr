@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [What Should Pine64 Build With Microcontrollers?](https://contextwindow.news/article/what-should-pine64-build-with-microcontrollers)
-- [Commodore 128 Becomes Marine Vessel Tracker](https://contextwindow.news/article/commodore-128-becomes-marine-vessel-tracker)
-- [GM’s Experimental EV from 1969](https://contextwindow.news/article/gms-experimental-ev-from-1969)
-- [Opus 5.5 vs GPT-6-Sol and Luna](https://contextwindow.news/article/opus-55-vs-gpt-6-sol-and-luna)
-- [Can Muse make us forget the metaverse?](https://contextwindow.news/article/can-muse-make-us-forget-the-metaverse)
+- [You Can Make a Microprocessor That’s All Your Own](https://contextwindow.news/article/you-can-make-a-microprocessor-thats-all-your-own)
+- [Easy Ways Sink a Hardware Startup](https://contextwindow.news/article/easy-ways-sink-a-hardware-startup)
+- [Abusing SQL to Play DOOM](https://contextwindow.news/article/abusing-sql-to-play-doom)
+- [The Low-Level Waste Dumps in The Atlantic Have Become Ecosystems](https://contextwindow.news/article/the-low-level-waste-dumps-in-the-atlantic-have-become-ecosystems)
+- [How People Are Actually Using Jev](https://contextwindow.news/article/how-people-are-actually-using-jev)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
