@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [You Can Make a Microprocessor That’s All Your Own](https://contextwindow.news/article/you-can-make-a-microprocessor-thats-all-your-own)
-- [Easy Ways Sink a Hardware Startup](https://contextwindow.news/article/easy-ways-sink-a-hardware-startup)
-- [Abusing SQL to Play DOOM](https://contextwindow.news/article/abusing-sql-to-play-doom)
-- [The Low-Level Waste Dumps in The Atlantic Have Become Ecosystems](https://contextwindow.news/article/the-low-level-waste-dumps-in-the-atlantic-have-become-ecosystems)
-- [How People Are Actually Using Jev](https://contextwindow.news/article/how-people-are-actually-using-jev)
+- [Reverse Engineering Apple’s Mikey Chip](https://contextwindow.news/article/reverse-engineering-apples-mikey-chip)
+- [When the Debugger Lies With Stale Cache Values](https://contextwindow.news/article/when-the-debugger-lies-with-stale-cache-values)
+- [Basically, Galvanizing Metal Without Acid](https://contextwindow.news/article/basically-galvanizing-metal-without-acid)
+- [A Modular Macro Keypad](https://contextwindow.news/article/a-modular-macro-keypad)
+- [Cheap Yellow Display Dreams of PDA](https://contextwindow.news/article/cheap-yellow-display-dreams-of-pda)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
