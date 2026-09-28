@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering Apple’s Mikey Chip](https://contextwindow.news/article/reverse-engineering-apples-mikey-chip)
-- [When the Debugger Lies With Stale Cache Values](https://contextwindow.news/article/when-the-debugger-lies-with-stale-cache-values)
-- [Basically, Galvanizing Metal Without Acid](https://contextwindow.news/article/basically-galvanizing-metal-without-acid)
-- [A Modular Macro Keypad](https://contextwindow.news/article/a-modular-macro-keypad)
-- [Cheap Yellow Display Dreams of PDA](https://contextwindow.news/article/cheap-yellow-display-dreams-of-pda)
+- [Apple @ Work Webinar: Your old Apple fleet is worth more than you think](https://contextwindow.news/article/apple-work-webinar-your-old-apple-fleet-is-worth-more-than-you-think)
+- [The rise of HI-ICs | Elena Verna (Lovable)](https://contextwindow.news/article/the-rise-of-hi-ics-or-elena-verna-lovable)
+- [What it takes to be a top PM today | Robby Stein (Google Search)](https://contextwindow.news/article/what-it-takes-to-be-a-top-pm-today-or-robby-stein-google-search)
+- [Using the SNES Super FX Chip to Run Super Mario 64](https://contextwindow.news/article/using-the-snes-super-fx-chip-to-run-super-mario-64)
+- [An IR Blaster Project, in a Nutshell](https://contextwindow.news/article/an-ir-blaster-project-in-a-nutshell)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
