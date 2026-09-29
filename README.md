@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple @ Work Webinar: Your old Apple fleet is worth more than you think](https://contextwindow.news/article/apple-work-webinar-your-old-apple-fleet-is-worth-more-than-you-think)
-- [The rise of HI-ICs | Elena Verna (Lovable)](https://contextwindow.news/article/the-rise-of-hi-ics-or-elena-verna-lovable)
-- [What it takes to be a top PM today | Robby Stein (Google Search)](https://contextwindow.news/article/what-it-takes-to-be-a-top-pm-today-or-robby-stein-google-search)
-- [Using the SNES Super FX Chip to Run Super Mario 64](https://contextwindow.news/article/using-the-snes-super-fx-chip-to-run-super-mario-64)
-- [An IR Blaster Project, in a Nutshell](https://contextwindow.news/article/an-ir-blaster-project-in-a-nutshell)
+- [Testing Coulomb’s Law and Similar Fundamentals Yourself Remains Tricky](https://contextwindow.news/article/testing-coulombs-law-and-similar-fundamentals-yourself-remains-tricky)
+- [A decade in, what is the Pixel’s legacy?](https://contextwindow.news/article/a-decade-in-what-is-the-pixels-legacy)
+- [Metal Gear Solid Moves From PlayStation to ESP32](https://contextwindow.news/article/metal-gear-solid-moves-from-playstation-to-esp32)
+- [Pitting a CFD-Optimized Toroidal Propeller Against a Conventional One](https://contextwindow.news/article/pitting-a-cfd-optimized-toroidal-propeller-against-a-conventional-one)
+- [Two-Dimensional Material Now Easier to Manufacture](https://contextwindow.news/article/two-dimensional-material-now-easier-to-manufacture)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
