@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Coulomb’s Law and Similar Fundamentals Yourself Remains Tricky](https://contextwindow.news/article/testing-coulombs-law-and-similar-fundamentals-yourself-remains-tricky)
-- [A decade in, what is the Pixel’s legacy?](https://contextwindow.news/article/a-decade-in-what-is-the-pixels-legacy)
-- [Metal Gear Solid Moves From PlayStation to ESP32](https://contextwindow.news/article/metal-gear-solid-moves-from-playstation-to-esp32)
-- [Pitting a CFD-Optimized Toroidal Propeller Against a Conventional One](https://contextwindow.news/article/pitting-a-cfd-optimized-toroidal-propeller-against-a-conventional-one)
-- [Two-Dimensional Material Now Easier to Manufacture](https://contextwindow.news/article/two-dimensional-material-now-easier-to-manufacture)
+- [Samsung Galaxy Tab S12 series goes official from $1,199 with Photoshop pre-installed](https://contextwindow.news/article/samsung-galaxy-tab-s12-series-goes-official-from-dollar1199-with-photoshop-pre-installed)
+- [Sheety Turns Spreadsheets Into Binaries, For Some Reason](https://contextwindow.news/article/sheety-turns-spreadsheets-into-binaries-for-some-reason)
+- [A Simple Solution for Streamlining Battery Recycling](https://contextwindow.news/article/a-simple-solution-for-streamlining-battery-recycling)
+- [No More Windows For The Dutch Government, Ze Kiezen Nu Linux](https://contextwindow.news/article/no-more-windows-for-the-dutch-government-ze-kiezen-nu-linux)
+- [Determining Diamond’s Properties Under Extreme Pressures](https://contextwindow.news/article/determining-diamonds-properties-under-extreme-pressures)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
