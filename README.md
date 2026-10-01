@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung Galaxy Tab S12 series goes official from $1,199 with Photoshop pre-installed](https://contextwindow.news/article/samsung-galaxy-tab-s12-series-goes-official-from-dollar1199-with-photoshop-pre-installed)
-- [Sheety Turns Spreadsheets Into Binaries, For Some Reason](https://contextwindow.news/article/sheety-turns-spreadsheets-into-binaries-for-some-reason)
-- [A Simple Solution for Streamlining Battery Recycling](https://contextwindow.news/article/a-simple-solution-for-streamlining-battery-recycling)
-- [No More Windows For The Dutch Government, Ze Kiezen Nu Linux](https://contextwindow.news/article/no-more-windows-for-the-dutch-government-ze-kiezen-nu-linux)
-- [Determining Diamond’s Properties Under Extreme Pressures](https://contextwindow.news/article/determining-diamonds-properties-under-extreme-pressures)
+- [Samsung has updated these Galaxy devices to Android 17](https://contextwindow.news/article/samsung-has-updated-these-galaxy-devices-to-android-17)
+- [The Whole Computer Is Vim](https://contextwindow.news/article/the-whole-computer-is-vim)
+- [Gemini 4 Argon must reverse Google’s AI inertia](https://contextwindow.news/article/gemini-4-argon-must-reverse-googles-ai-inertia)
+- [SDR– Lets You Patch Together Your Setup](https://contextwindow.news/article/sdr-lets-you-patch-together-your-setup)
+- [DIY Game Console Does It With Optical Disks](https://contextwindow.news/article/diy-game-console-does-it-with-optical-disks)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
