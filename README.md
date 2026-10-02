@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung has updated these Galaxy devices to Android 17](https://contextwindow.news/article/samsung-has-updated-these-galaxy-devices-to-android-17)
-- [The Whole Computer Is Vim](https://contextwindow.news/article/the-whole-computer-is-vim)
-- [Gemini 4 Argon must reverse Google’s AI inertia](https://contextwindow.news/article/gemini-4-argon-must-reverse-googles-ai-inertia)
-- [SDR– Lets You Patch Together Your Setup](https://contextwindow.news/article/sdr-lets-you-patch-together-your-setup)
-- [DIY Game Console Does It With Optical Disks](https://contextwindow.news/article/diy-game-console-does-it-with-optical-disks)
+- [Teardown of an USB-C Cable with integrated LCD](https://contextwindow.news/article/teardown-of-an-usb-c-cable-with-integrated-lcd)
+- [The Game Boy Test Lab Provides a Cartridge-Sized Diagnostic Lab](https://contextwindow.news/article/the-game-boy-test-lab-provides-a-cartridge-sized-diagnostic-lab)
+- [Gardening With…OpenSCAD?](https://contextwindow.news/article/gardening-withopenscad)
+- [Power It With Sodium (But Please Don’t)](https://contextwindow.news/article/power-it-with-sodium-but-please-dont)
+- [Google Messages rolls out new long-press menu with partial copying [Updated]](https://contextwindow.news/article/google-messages-rolls-out-new-long-press-menu-with-partial-copying-updated)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
