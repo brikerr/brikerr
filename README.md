@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Teardown of an USB-C Cable with integrated LCD](https://contextwindow.news/article/teardown-of-an-usb-c-cable-with-integrated-lcd)
-- [The Game Boy Test Lab Provides a Cartridge-Sized Diagnostic Lab](https://contextwindow.news/article/the-game-boy-test-lab-provides-a-cartridge-sized-diagnostic-lab)
-- [Gardening With…OpenSCAD?](https://contextwindow.news/article/gardening-withopenscad)
-- [Power It With Sodium (But Please Don’t)](https://contextwindow.news/article/power-it-with-sodium-but-please-dont)
-- [Google Messages rolls out new long-press menu with partial copying [Updated]](https://contextwindow.news/article/google-messages-rolls-out-new-long-press-menu-with-partial-copying-updated)
+- [Own The OSD Chip In Your Cheap Composite Monitor](https://contextwindow.news/article/own-the-osd-chip-in-your-cheap-composite-monitor)
+- [That’s No Moon… That’s an Exoplanet!](https://contextwindow.news/article/thats-no-moon-thats-an-exoplanet)
+- [Is This The Smallest Internet Radio?](https://contextwindow.news/article/is-this-the-smallest-internet-radio)
+- [2026 Retrocomputing Challenge: Lunar Lander on the PDP-1](https://contextwindow.news/article/2026-retrocomputing-challenge-lunar-lander-on-the-pdp-1)
+- [Electronic Busy Board is Fun for Kids and Hackers](https://contextwindow.news/article/electronic-busy-board-is-fun-for-kids-and-hackers)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
