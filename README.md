@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Own The OSD Chip In Your Cheap Composite Monitor](https://contextwindow.news/article/own-the-osd-chip-in-your-cheap-composite-monitor)
-- [That’s No Moon… That’s an Exoplanet!](https://contextwindow.news/article/thats-no-moon-thats-an-exoplanet)
-- [Is This The Smallest Internet Radio?](https://contextwindow.news/article/is-this-the-smallest-internet-radio)
-- [2026 Retrocomputing Challenge: Lunar Lander on the PDP-1](https://contextwindow.news/article/2026-retrocomputing-challenge-lunar-lander-on-the-pdp-1)
-- [Electronic Busy Board is Fun for Kids and Hackers](https://contextwindow.news/article/electronic-busy-board-is-fun-for-kids-and-hackers)
+- [AI on Your Gaming PC](https://contextwindow.news/article/ai-on-your-gaming-pc)
+- [The Big Moon Plot](https://contextwindow.news/article/the-big-moon-plot)
+- [Debloat The Internet With a Self-Hosted Compressing Proxy](https://contextwindow.news/article/debloat-the-internet-with-a-self-hosted-compressing-proxy)
+- [Play PlayStation 2 and XBox 1 Games on Your Jailbroken PS5](https://contextwindow.news/article/play-playstation-2-and-xbox-1-games-on-your-jailbroken-ps5)
+- [A Good DIY Solder Stencil Begins With a Cleanly-Sliced Soda Can](https://contextwindow.news/article/a-good-diy-solder-stencil-begins-with-a-cleanly-sliced-soda-can)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
