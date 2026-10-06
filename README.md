@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [AI on Your Gaming PC](https://contextwindow.news/article/ai-on-your-gaming-pc)
-- [The Big Moon Plot](https://contextwindow.news/article/the-big-moon-plot)
-- [Debloat The Internet With a Self-Hosted Compressing Proxy](https://contextwindow.news/article/debloat-the-internet-with-a-self-hosted-compressing-proxy)
-- [Play PlayStation 2 and XBox 1 Games on Your Jailbroken PS5](https://contextwindow.news/article/play-playstation-2-and-xbox-1-games-on-your-jailbroken-ps5)
-- [A Good DIY Solder Stencil Begins With a Cleanly-Sliced Soda Can](https://contextwindow.news/article/a-good-diy-solder-stencil-begins-with-a-cleanly-sliced-soda-can)
+- [All of the best fall Prime Day deals: Pixel 11, Galaxy Z Fold 8, chargers, smart home, TVs, more](https://contextwindow.news/article/all-of-the-best-fall-prime-day-deals-pixel-11-galaxy-z-fold-8-chargers-smart-home-tvs-more)
+- [Get better water for busy Fall days with Waterdrop Filter’s Fall Prime Day discounts](https://contextwindow.news/article/get-better-water-for-busy-fall-days-with-waterdrop-filters-fall-prime-day-discounts)
+- [Pixel 11 gets first Google Store deal for Prime Day](https://contextwindow.news/article/pixel-11-gets-first-google-store-deal-for-prime-day)
+- [USB-C PD Tamed with this Analyzer](https://contextwindow.news/article/usb-c-pd-tamed-with-this-analyzer)
+- [Google seems to finally understand why it bought Fitbit](https://contextwindow.news/article/google-seems-to-finally-understand-why-it-bought-fitbit)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
