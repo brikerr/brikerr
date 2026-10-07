@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [All of the best fall Prime Day deals: Pixel 11, Galaxy Z Fold 8, chargers, smart home, TVs, more](https://contextwindow.news/article/all-of-the-best-fall-prime-day-deals-pixel-11-galaxy-z-fold-8-chargers-smart-home-tvs-more)
-- [Get better water for busy Fall days with Waterdrop Filter’s Fall Prime Day discounts](https://contextwindow.news/article/get-better-water-for-busy-fall-days-with-waterdrop-filters-fall-prime-day-discounts)
-- [Pixel 11 gets first Google Store deal for Prime Day](https://contextwindow.news/article/pixel-11-gets-first-google-store-deal-for-prime-day)
-- [USB-C PD Tamed with this Analyzer](https://contextwindow.news/article/usb-c-pd-tamed-with-this-analyzer)
-- [Google seems to finally understand why it bought Fitbit](https://contextwindow.news/article/google-seems-to-finally-understand-why-it-bought-fitbit)
+- [Android Auto rolling out fix that stops auto-playing music when you start your car](https://contextwindow.news/article/android-auto-rolling-out-fix-that-stops-auto-playing-music-when-you-start-your-car)
+- [Google Labs announces ‘Playground’ for prompt-based game creation](https://contextwindow.news/article/google-labs-announces-playground-for-prompt-based-game-creation)
+- [Don’t Try this At Home, Transcranial Magnetic Stimulation Edition](https://contextwindow.news/article/dont-try-this-at-home-transcranial-magnetic-stimulation-edition)
+- [The Commodore 64 Keyboard Font, For Everyone](https://contextwindow.news/article/the-commodore-64-keyboard-font-for-everyone)
+- [Don’t Worry, This R/C Airship is Supposed To Be On Fire](https://contextwindow.news/article/dont-worry-this-rc-airship-is-supposed-to-be-on-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
