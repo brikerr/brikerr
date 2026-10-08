@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Auto rolling out fix that stops auto-playing music when you start your car](https://contextwindow.news/article/android-auto-rolling-out-fix-that-stops-auto-playing-music-when-you-start-your-car)
-- [Google Labs announces ‘Playground’ for prompt-based game creation](https://contextwindow.news/article/google-labs-announces-playground-for-prompt-based-game-creation)
-- [Don’t Try this At Home, Transcranial Magnetic Stimulation Edition](https://contextwindow.news/article/dont-try-this-at-home-transcranial-magnetic-stimulation-edition)
-- [The Commodore 64 Keyboard Font, For Everyone](https://contextwindow.news/article/the-commodore-64-keyboard-font-for-everyone)
-- [Don’t Worry, This R/C Airship is Supposed To Be On Fire](https://contextwindow.news/article/dont-worry-this-rc-airship-is-supposed-to-be-on-fire)
+- [The World’s Smallest TV Console Plays DOOM](https://contextwindow.news/article/the-worlds-smallest-tv-console-plays-doom)
+- [2026 Retrocomputing Challenge: Retro Terminal Bartop Arcade Topper](https://contextwindow.news/article/2026-retrocomputing-challenge-retro-terminal-bartop-arcade-topper)
+- [Solve Your TTL Video Woes With An RP2350](https://contextwindow.news/article/solve-your-ttl-video-woes-with-an-rp2350)
+- [Keep That Old Radio Alive With An ESP32](https://contextwindow.news/article/keep-that-old-radio-alive-with-an-esp32)
+- [Streaming Games Means the Nintendo DSi Will Never Be Obsolete](https://contextwindow.news/article/streaming-games-means-the-nintendo-dsi-will-never-be-obsolete)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
