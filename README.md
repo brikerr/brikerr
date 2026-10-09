@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [The World’s Smallest TV Console Plays DOOM](https://contextwindow.news/article/the-worlds-smallest-tv-console-plays-doom)
-- [2026 Retrocomputing Challenge: Retro Terminal Bartop Arcade Topper](https://contextwindow.news/article/2026-retrocomputing-challenge-retro-terminal-bartop-arcade-topper)
-- [Solve Your TTL Video Woes With An RP2350](https://contextwindow.news/article/solve-your-ttl-video-woes-with-an-rp2350)
-- [Keep That Old Radio Alive With An ESP32](https://contextwindow.news/article/keep-that-old-radio-alive-with-an-esp32)
-- [Streaming Games Means the Nintendo DSi Will Never Be Obsolete](https://contextwindow.news/article/streaming-games-means-the-nintendo-dsi-will-never-be-obsolete)
+- [Margret Hamilton, Pioneering Software Engineer, Dies Aged 90](https://contextwindow.news/article/margret-hamilton-pioneering-software-engineer-dies-aged-90)
+- [Belt File from Old Mixer and Junk Bin Parts](https://contextwindow.news/article/belt-file-from-old-mixer-and-junk-bin-parts)
+- [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://contextwindow.news/article/sophos-cuts-threat-investigation-time-by-96percent-with-openai-daybreak)
+- [Low Current Density Nickel Plating](https://contextwindow.news/article/low-current-density-nickel-plating)
+- [Introducing the Garlic-Powered Door and Window Sensor](https://contextwindow.news/article/introducing-the-garlic-powered-door-and-window-sensor)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
