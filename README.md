@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Margret Hamilton, Pioneering Software Engineer, Dies Aged 90](https://contextwindow.news/article/margret-hamilton-pioneering-software-engineer-dies-aged-90)
-- [Belt File from Old Mixer and Junk Bin Parts](https://contextwindow.news/article/belt-file-from-old-mixer-and-junk-bin-parts)
-- [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://contextwindow.news/article/sophos-cuts-threat-investigation-time-by-96percent-with-openai-daybreak)
-- [Low Current Density Nickel Plating](https://contextwindow.news/article/low-current-density-nickel-plating)
-- [Introducing the Garlic-Powered Door and Window Sensor](https://contextwindow.news/article/introducing-the-garlic-powered-door-and-window-sensor)
+- [Why Every Microwave Has a “Popcorn” Button, But Every Bag Warns You Not to Use It](https://contextwindow.news/article/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it)
+- [Another IKEA Product Yields an LED Matrix](https://contextwindow.news/article/another-ikea-product-yields-an-led-matrix)
+- [Super Mario 64 Comes to the Microsoft Zune](https://contextwindow.news/article/super-mario-64-comes-to-the-microsoft-zune)
+- [2026 Retrocomputing Challenge: NEC 286 Laptop Rides Again](https://contextwindow.news/article/2026-retrocomputing-challenge-nec-286-laptop-rides-again)
+- [Free Gemini users now on ‘Auto’ models as app adds thinking levels](https://contextwindow.news/article/free-gemini-users-now-on-auto-models-as-app-adds-thinking-levels)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
