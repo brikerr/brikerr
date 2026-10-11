@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Microwave Has a “Popcorn” Button, But Every Bag Warns You Not to Use It](https://contextwindow.news/article/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it)
-- [Another IKEA Product Yields an LED Matrix](https://contextwindow.news/article/another-ikea-product-yields-an-led-matrix)
-- [Super Mario 64 Comes to the Microsoft Zune](https://contextwindow.news/article/super-mario-64-comes-to-the-microsoft-zune)
-- [2026 Retrocomputing Challenge: NEC 286 Laptop Rides Again](https://contextwindow.news/article/2026-retrocomputing-challenge-nec-286-laptop-rides-again)
-- [Free Gemini users now on ‘Auto’ models as app adds thinking levels](https://contextwindow.news/article/free-gemini-users-now-on-auto-models-as-app-adds-thinking-levels)
+- [Why the LeapPad couldn’t survive the iPad](https://contextwindow.news/article/why-the-leappad-couldnt-survive-the-ipad)
+- [Improving an Autorouter with a Hexagonal Grid](https://contextwindow.news/article/improving-an-autorouter-with-a-hexagonal-grid)
+- [Learning to use local AI is exciting, overwhelming, and frustrating](https://contextwindow.news/article/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating)
+- [AI’s First Full Field-Level Disruption](https://contextwindow.news/article/ais-first-full-field-level-disruption)
+- [Mars Pathfinder: What Really Happened?](https://contextwindow.news/article/mars-pathfinder-what-really-happened)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
