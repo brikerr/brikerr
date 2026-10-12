@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the LeapPad couldn’t survive the iPad](https://contextwindow.news/article/why-the-leappad-couldnt-survive-the-ipad)
-- [Improving an Autorouter with a Hexagonal Grid](https://contextwindow.news/article/improving-an-autorouter-with-a-hexagonal-grid)
-- [Learning to use local AI is exciting, overwhelming, and frustrating](https://contextwindow.news/article/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating)
-- [AI’s First Full Field-Level Disruption](https://contextwindow.news/article/ais-first-full-field-level-disruption)
-- [Mars Pathfinder: What Really Happened?](https://contextwindow.news/article/mars-pathfinder-what-really-happened)
+- [Can AI Keep Growing Exponentially? SemiAnalysis Makes the Case](https://contextwindow.news/article/can-ai-keep-growing-exponentially-semianalysis-makes-the-case)
+- [Grok Bot Just Became The Best Personal Agent (10 Use Cases)](https://contextwindow.news/article/grok-bot-just-became-the-best-personal-agent-10-use-cases)
+- [Recursive Self-Improvement and the Future of AI](https://contextwindow.news/article/recursive-self-improvement-and-the-future-of-ai)
+- [Your Computer Memory is a Lie](https://contextwindow.news/article/your-computer-memory-is-a-lie)
+- [Nothing starts rolling out stable Android 17 update to Phone (3) – here’s the schedule](https://contextwindow.news/article/nothing-starts-rolling-out-stable-android-17-update-to-phone-3-heres-the-schedule)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
