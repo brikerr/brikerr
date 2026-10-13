@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Keep Growing Exponentially? SemiAnalysis Makes the Case](https://contextwindow.news/article/can-ai-keep-growing-exponentially-semianalysis-makes-the-case)
-- [Grok Bot Just Became The Best Personal Agent (10 Use Cases)](https://contextwindow.news/article/grok-bot-just-became-the-best-personal-agent-10-use-cases)
-- [Recursive Self-Improvement and the Future of AI](https://contextwindow.news/article/recursive-self-improvement-and-the-future-of-ai)
-- [Your Computer Memory is a Lie](https://contextwindow.news/article/your-computer-memory-is-a-lie)
-- [Nothing starts rolling out stable Android 17 update to Phone (3) – here’s the schedule](https://contextwindow.news/article/nothing-starts-rolling-out-stable-android-17-update-to-phone-3-heres-the-schedule)
+- [A Modern Browser for the PlayStation Portable](https://contextwindow.news/article/a-modern-browser-for-the-playstation-portable)
+- [Open Firmware Fixes Dead Onkyo AV Receivers](https://contextwindow.news/article/open-firmware-fixes-dead-onkyo-av-receivers)
+- [Emulating a Floppy Drive By Emulating The Drive Itself](https://contextwindow.news/article/emulating-a-floppy-drive-by-emulating-the-drive-itself)
+- [Gemini ‘Task’ redesign integrates Spark into the main chat app](https://contextwindow.news/article/gemini-task-redesign-integrates-spark-into-the-main-chat-app)
+- [Using Kirigami Techniques to Make Functional Designs](https://contextwindow.news/article/using-kirigami-techniques-to-make-functional-designs)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
