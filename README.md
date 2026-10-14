@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [A Modern Browser for the PlayStation Portable](https://contextwindow.news/article/a-modern-browser-for-the-playstation-portable)
-- [Open Firmware Fixes Dead Onkyo AV Receivers](https://contextwindow.news/article/open-firmware-fixes-dead-onkyo-av-receivers)
-- [Emulating a Floppy Drive By Emulating The Drive Itself](https://contextwindow.news/article/emulating-a-floppy-drive-by-emulating-the-drive-itself)
-- [Gemini ‘Task’ redesign integrates Spark into the main chat app](https://contextwindow.news/article/gemini-task-redesign-integrates-spark-into-the-main-chat-app)
-- [Using Kirigami Techniques to Make Functional Designs](https://contextwindow.news/article/using-kirigami-techniques-to-make-functional-designs)
+- [I Used to Hate Meta. Now It’s Blowing My Mind](https://contextwindow.news/article/i-used-to-hate-meta-now-its-blowing-my-mind)
+- [Testing Oneself for AI Slop](https://contextwindow.news/article/testing-oneself-for-ai-slop)
+- [Config India 2026: Figma product launch keynote (Dylan Field, CEO & Co-founder, Figma)](https://contextwindow.news/article/config-india-2026-figma-product-launch-keynote-dylan-field-ceo-and-co-founder-figma)
+- [Rendering 3D Prints From G-Code](https://contextwindow.news/article/rendering-3d-prints-from-g-code)
+- [Does It Run… Duke Nukem 3D?](https://contextwindow.news/article/does-it-run-duke-nukem-3d)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
