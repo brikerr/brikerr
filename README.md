@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used to Hate Meta. Now It’s Blowing My Mind](https://contextwindow.news/article/i-used-to-hate-meta-now-its-blowing-my-mind)
-- [Testing Oneself for AI Slop](https://contextwindow.news/article/testing-oneself-for-ai-slop)
-- [Config India 2026: Figma product launch keynote (Dylan Field, CEO & Co-founder, Figma)](https://contextwindow.news/article/config-india-2026-figma-product-launch-keynote-dylan-field-ceo-and-co-founder-figma)
-- [Rendering 3D Prints From G-Code](https://contextwindow.news/article/rendering-3d-prints-from-g-code)
-- [Does It Run… Duke Nukem 3D?](https://contextwindow.news/article/does-it-run-duke-nukem-3d)
+- [A Thermal Camera That Uses WebUSB](https://contextwindow.news/article/a-thermal-camera-that-uses-webusb)
+- [Building An M7 Pan Tilt Head Controller](https://contextwindow.news/article/building-an-m7-pan-tilt-head-controller)
+- [Pager Converted to Meshtastic Node](https://contextwindow.news/article/pager-converted-to-meshtastic-node)
+- [AI Controls iPhone Via ESP32](https://contextwindow.news/article/ai-controls-iphone-via-esp32)
+- [Single Button, Handheld Gaming Console](https://contextwindow.news/article/single-button-handheld-gaming-console)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
