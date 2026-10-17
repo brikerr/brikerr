@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Running DOOM (Sort Of) on a Sonoff Smart Switch](https://contextwindow.news/article/running-doom-sort-of-on-a-sonoff-smart-switch)
-- [Another Wireless Chip has a Hidden SDR Revealed](https://contextwindow.news/article/another-wireless-chip-has-a-hidden-sdr-revealed)
-- [Using Optical Waveguide Arrays to Make Sheets Sense Shapes](https://contextwindow.news/article/using-optical-waveguide-arrays-to-make-sheets-sense-shapes)
-- [Gemini 4 Argon is now rolling out to Google’s Antigravity for AI Pro subscribers](https://contextwindow.news/article/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers)
-- [45 Years Later, The Sinclair ULA Design Documents Surface](https://contextwindow.news/article/45-years-later-the-sinclair-ula-design-documents-surface)
+- [Making One Fender From Another](https://contextwindow.news/article/making-one-fender-from-another)
+- [TAKTO, Open Source Hand-Tracking Built Like LEGO](https://contextwindow.news/article/takto-open-source-hand-tracking-built-like-lego)
+- [The Trials And Tribulations Of Your First Badge](https://contextwindow.news/article/the-trials-and-tribulations-of-your-first-badge)
+- [HP Googlebook 14 Review: Great laptop, shame about the OS](https://contextwindow.news/article/hp-googlebook-14-review-great-laptop-shame-about-the-os)
+- [Simplifying Slide Rule Calculations with Trig](https://contextwindow.news/article/simplifying-slide-rule-calculations-with-trig)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
