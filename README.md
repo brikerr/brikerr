@@ -20,11 +20,11 @@ I design and prototype AI-native systems where interfaces, agents, and physical 
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Making One Fender From Another](https://contextwindow.news/article/making-one-fender-from-another)
-- [TAKTO, Open Source Hand-Tracking Built Like LEGO](https://contextwindow.news/article/takto-open-source-hand-tracking-built-like-lego)
-- [The Trials And Tribulations Of Your First Badge](https://contextwindow.news/article/the-trials-and-tribulations-of-your-first-badge)
-- [HP Googlebook 14 Review: Great laptop, shame about the OS](https://contextwindow.news/article/hp-googlebook-14-review-great-laptop-shame-about-the-os)
-- [Simplifying Slide Rule Calculations with Trig](https://contextwindow.news/article/simplifying-slide-rule-calculations-with-trig)
+- [Turning a Wi-Fi Adapter into an SDR](https://contextwindow.news/article/turning-a-wi-fi-adapter-into-an-sdr)
+- [Making a New Mechanism for a Reciprocating Pencil Sharpener](https://contextwindow.news/article/making-a-new-mechanism-for-a-reciprocating-pencil-sharpener)
+- [Busting the Myth that Plastics are Chemically Inert in Water](https://contextwindow.news/article/busting-the-myth-that-plastics-are-chemically-inert-in-water)
+- [2026 Retrocomputing Challenge: Dollhouse Arcade Cabinet Runs Remote DOS Games](https://contextwindow.news/article/2026-retrocomputing-challenge-dollhouse-arcade-cabinet-runs-remote-dos-games)
+- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://contextwindow.news/article/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
