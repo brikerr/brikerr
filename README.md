@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning a Wi-Fi Adapter into an SDR](https://contextwindow.news/article/turning-a-wi-fi-adapter-into-an-sdr)
-- [Making a New Mechanism for a Reciprocating Pencil Sharpener](https://contextwindow.news/article/making-a-new-mechanism-for-a-reciprocating-pencil-sharpener)
-- [Busting the Myth that Plastics are Chemically Inert in Water](https://contextwindow.news/article/busting-the-myth-that-plastics-are-chemically-inert-in-water)
-- [2026 Retrocomputing Challenge: Dollhouse Arcade Cabinet Runs Remote DOS Games](https://contextwindow.news/article/2026-retrocomputing-challenge-dollhouse-arcade-cabinet-runs-remote-dos-games)
-- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://contextwindow.news/article/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings)
+- [The Flying Roadster is Really About The SpaceX/Tesla Merger](https://contextwindow.news/article/the-flying-roadster-is-really-about-the-spacextesla-merger)
+- [An LCR Meter with Compromises](https://contextwindow.news/article/an-lcr-meter-with-compromises)
+- [Beyond the Canvas](https://contextwindow.news/article/beyond-the-canvas)
+- [Driving On the Moon at a Blistering 11.6 MPH](https://contextwindow.news/article/driving-on-the-moon-at-a-blistering-116-mph)
+- [Thunderbolt Strikes Windows98](https://contextwindow.news/article/thunderbolt-strikes-windows98)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
