@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [The Flying Roadster is Really About The SpaceX/Tesla Merger](https://contextwindow.news/article/the-flying-roadster-is-really-about-the-spacextesla-merger)
-- [An LCR Meter with Compromises](https://contextwindow.news/article/an-lcr-meter-with-compromises)
-- [Beyond the Canvas](https://contextwindow.news/article/beyond-the-canvas)
-- [Driving On the Moon at a Blistering 11.6 MPH](https://contextwindow.news/article/driving-on-the-moon-at-a-blistering-116-mph)
-- [Thunderbolt Strikes Windows98](https://contextwindow.news/article/thunderbolt-strikes-windows98)
+- [Super Mario Galaxy Now Runs on the GBA](https://contextwindow.news/article/super-mario-galaxy-now-runs-on-the-gba)
+- [Anthropic is Preparing for Mass Unemployment](https://contextwindow.news/article/anthropic-is-preparing-for-mass-unemployment)
+- [Design in the material you ship](https://contextwindow.news/article/design-in-the-material-you-ship)
+- [State of Ecommerce Accessibility 2026](https://contextwindow.news/article/state-of-ecommerce-accessibility-2026)
+- [Acceptance](https://contextwindow.news/article/acceptance)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
