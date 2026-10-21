@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Mario Galaxy Now Runs on the GBA](https://contextwindow.news/article/super-mario-galaxy-now-runs-on-the-gba)
-- [Anthropic is Preparing for Mass Unemployment](https://contextwindow.news/article/anthropic-is-preparing-for-mass-unemployment)
-- [Design in the material you ship](https://contextwindow.news/article/design-in-the-material-you-ship)
-- [State of Ecommerce Accessibility 2026](https://contextwindow.news/article/state-of-ecommerce-accessibility-2026)
-- [Acceptance](https://contextwindow.news/article/acceptance)
+- [Clotty The Custom Period Tracker Can, Of Course, Run DOOM](https://contextwindow.news/article/clotty-the-custom-period-tracker-can-of-course-run-doom)
+- [Samsung is rolling out Android 17 updates for some of its most popular Galaxy phones](https://contextwindow.news/article/samsung-is-rolling-out-android-17-updates-for-some-of-its-most-popular-galaxy-phones)
+- [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](https://contextwindow.news/article/announcing-simready-central-an-open-library-of-simulation-ready-3d-assets-for-robotics-and-ai-factories)
+- [A Stereo Vision Board For Hardware Hackers](https://contextwindow.news/article/a-stereo-vision-board-for-hardware-hackers)
+- [5 GHz Drone Video, With An ESP32](https://contextwindow.news/article/5-ghz-drone-video-with-an-esp32)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
