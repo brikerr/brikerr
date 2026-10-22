@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Clotty The Custom Period Tracker Can, Of Course, Run DOOM](https://contextwindow.news/article/clotty-the-custom-period-tracker-can-of-course-run-doom)
-- [Samsung is rolling out Android 17 updates for some of its most popular Galaxy phones](https://contextwindow.news/article/samsung-is-rolling-out-android-17-updates-for-some-of-its-most-popular-galaxy-phones)
-- [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](https://contextwindow.news/article/announcing-simready-central-an-open-library-of-simulation-ready-3d-assets-for-robotics-and-ai-factories)
-- [A Stereo Vision Board For Hardware Hackers](https://contextwindow.news/article/a-stereo-vision-board-for-hardware-hackers)
-- [5 GHz Drone Video, With An ESP32](https://contextwindow.news/article/5-ghz-drone-video-with-an-esp32)
+- [Floating-Point Addition and Subtraction on Intel’s 8087](https://contextwindow.news/article/floating-point-addition-and-subtraction-on-intels-8087)
+- [Android has always been chaotic in the best ways possible](https://contextwindow.news/article/android-has-always-been-chaotic-in-the-best-ways-possible)
+- [Trying to Get Linux Running on a Nokia E6](https://contextwindow.news/article/trying-to-get-linux-running-on-a-nokia-e6)
+- [Reading QR Codes by Hand](https://contextwindow.news/article/reading-qr-codes-by-hand)
+- [Making a Five-Segment Display with Platinum-Titanium Cathodes](https://contextwindow.news/article/making-a-five-segment-display-with-platinum-titanium-cathodes)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
