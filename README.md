@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Floating-Point Addition and Subtraction on Intel’s 8087](https://contextwindow.news/article/floating-point-addition-and-subtraction-on-intels-8087)
-- [Android has always been chaotic in the best ways possible](https://contextwindow.news/article/android-has-always-been-chaotic-in-the-best-ways-possible)
-- [Trying to Get Linux Running on a Nokia E6](https://contextwindow.news/article/trying-to-get-linux-running-on-a-nokia-e6)
-- [Reading QR Codes by Hand](https://contextwindow.news/article/reading-qr-codes-by-hand)
-- [Making a Five-Segment Display with Platinum-Titanium Cathodes](https://contextwindow.news/article/making-a-five-segment-display-with-platinum-titanium-cathodes)
+- [When You Can’t Pick Between Electric and Jet Power, This Buggy Has You Covered](https://contextwindow.news/article/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered)
+- [DOOM Ported to a $30 Clamp Meter](https://contextwindow.news/article/doom-ported-to-a-dollar30-clamp-meter)
+- [Restoring a Soviet ES-4001 Mainframe Control Panel](https://contextwindow.news/article/restoring-a-soviet-es-4001-mainframe-control-panel)
+- [NASA Batteries Survive Extreme Cold and Heat](https://contextwindow.news/article/nasa-batteries-survive-extreme-cold-and-heat)
+- [Introducing Machine Gods](https://contextwindow.news/article/introducing-machine-gods)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
