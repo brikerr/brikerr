@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [When You Can’t Pick Between Electric and Jet Power, This Buggy Has You Covered](https://contextwindow.news/article/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered)
-- [DOOM Ported to a $30 Clamp Meter](https://contextwindow.news/article/doom-ported-to-a-dollar30-clamp-meter)
-- [Restoring a Soviet ES-4001 Mainframe Control Panel](https://contextwindow.news/article/restoring-a-soviet-es-4001-mainframe-control-panel)
-- [NASA Batteries Survive Extreme Cold and Heat](https://contextwindow.news/article/nasa-batteries-survive-extreme-cold-and-heat)
-- [Introducing Machine Gods](https://contextwindow.news/article/introducing-machine-gods)
+- [A Walkie Talkie Interface For Claude](https://contextwindow.news/article/a-walkie-talkie-interface-for-claude)
+- [Using an Unmodded GBA as a Music Synth](https://contextwindow.news/article/using-an-unmodded-gba-as-a-music-synth)
+- [RepRapMicron Uses Fibre Optics To Print Tiny Benchy in Resin](https://contextwindow.news/article/reprapmicron-uses-fibre-optics-to-print-tiny-benchy-in-resin)
+- [Automatic Coil Winder Takes the Tedium out of Actuators](https://contextwindow.news/article/automatic-coil-winder-takes-the-tedium-out-of-actuators)
+- [Gemini for Android rolls out side panel and settings redesign](https://contextwindow.news/article/gemini-for-android-rolls-out-side-panel-and-settings-redesign)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
