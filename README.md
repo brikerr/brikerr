@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [A Walkie Talkie Interface For Claude](https://contextwindow.news/article/a-walkie-talkie-interface-for-claude)
-- [Using an Unmodded GBA as a Music Synth](https://contextwindow.news/article/using-an-unmodded-gba-as-a-music-synth)
-- [RepRapMicron Uses Fibre Optics To Print Tiny Benchy in Resin](https://contextwindow.news/article/reprapmicron-uses-fibre-optics-to-print-tiny-benchy-in-resin)
-- [Automatic Coil Winder Takes the Tedium out of Actuators](https://contextwindow.news/article/automatic-coil-winder-takes-the-tedium-out-of-actuators)
-- [Gemini for Android rolls out side panel and settings redesign](https://contextwindow.news/article/gemini-for-android-rolls-out-side-panel-and-settings-redesign)
+- [An Analog TV Station For Anyone](https://contextwindow.news/article/an-analog-tv-station-for-anyone)
+- [Pushing Bluetooth out to 12 Kilometers](https://contextwindow.news/article/pushing-bluetooth-out-to-12-kilometers)
+- [Why is everything getting hacked](https://contextwindow.news/article/why-is-everything-getting-hacked)
+- [Remembering the Weirdest Nintendo DSi Accessory](https://contextwindow.news/article/remembering-the-weirdest-nintendo-dsi-accessory)
+- [The Slurptop is Both Drool Worthy and Practical](https://contextwindow.news/article/the-slurptop-is-both-drool-worthy-and-practical)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
