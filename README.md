@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [An Analog TV Station For Anyone](https://contextwindow.news/article/an-analog-tv-station-for-anyone)
-- [Pushing Bluetooth out to 12 Kilometers](https://contextwindow.news/article/pushing-bluetooth-out-to-12-kilometers)
-- [Why is everything getting hacked](https://contextwindow.news/article/why-is-everything-getting-hacked)
-- [Remembering the Weirdest Nintendo DSi Accessory](https://contextwindow.news/article/remembering-the-weirdest-nintendo-dsi-accessory)
-- [The Slurptop is Both Drool Worthy and Practical](https://contextwindow.news/article/the-slurptop-is-both-drool-worthy-and-practical)
+- [Telling the wrong story, Design v ADHD, AI doesn’t care about your job title](https://contextwindow.news/article/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title)
+- [Hiding Virtualization From Other Software](https://contextwindow.news/article/hiding-virtualization-from-other-software)
+- [I Tested Claude Duet. It's Actually Amazing.](https://contextwindow.news/article/i-tested-claude-duet-its-actually-amazing)
+- [Vintage AI](https://contextwindow.news/article/vintage-ai)
+- [Hairy Armor For Combat Robot? It’s Not Terrible!](https://contextwindow.news/article/hairy-armor-for-combat-robot-its-not-terrible)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
