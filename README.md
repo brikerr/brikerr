@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Telling the wrong story, Design v ADHD, AI doesn’t care about your job title](https://contextwindow.news/article/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title)
-- [Hiding Virtualization From Other Software](https://contextwindow.news/article/hiding-virtualization-from-other-software)
-- [I Tested Claude Duet. It's Actually Amazing.](https://contextwindow.news/article/i-tested-claude-duet-its-actually-amazing)
-- [Vintage AI](https://contextwindow.news/article/vintage-ai)
-- [Hairy Armor For Combat Robot? It’s Not Terrible!](https://contextwindow.news/article/hairy-armor-for-combat-robot-its-not-terrible)
+- [SIMD-accelerated Machine Vision on an ESP32-S3](https://contextwindow.news/article/simd-accelerated-machine-vision-on-an-esp32-s3)
+- [Anthropic is printing money, but AI isn’t paying off outside tech](https://contextwindow.news/article/anthropic-is-printing-money-but-ai-isnt-paying-off-outside-tech)
+- [ESP32 Rotary Display Makes Ideal Timer](https://contextwindow.news/article/esp32-rotary-display-makes-ideal-timer)
+- [The Oldest Windows App To Still Run On WIndows 11](https://contextwindow.news/article/the-oldest-windows-app-to-still-run-on-windows-11)
+- [In Praise Of A Legendary Power Transistor](https://contextwindow.news/article/in-praise-of-a-legendary-power-transistor)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
