@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [SIMD-accelerated Machine Vision on an ESP32-S3](https://contextwindow.news/article/simd-accelerated-machine-vision-on-an-esp32-s3)
-- [Anthropic is printing money, but AI isn’t paying off outside tech](https://contextwindow.news/article/anthropic-is-printing-money-but-ai-isnt-paying-off-outside-tech)
-- [ESP32 Rotary Display Makes Ideal Timer](https://contextwindow.news/article/esp32-rotary-display-makes-ideal-timer)
-- [The Oldest Windows App To Still Run On WIndows 11](https://contextwindow.news/article/the-oldest-windows-app-to-still-run-on-windows-11)
-- [In Praise Of A Legendary Power Transistor](https://contextwindow.news/article/in-praise-of-a-legendary-power-transistor)
+- [Emulate the 486 in Your Browser](https://contextwindow.news/article/emulate-the-486-in-your-browser)
+- [Everything Important in Anthropic s IPO Prospectus](https://contextwindow.news/article/everything-important-in-anthropic-s-ipo-prospectus)
+- [Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb](https://contextwindow.news/article/faster-contract-review-broader-legal-analysis-or-legoras-alex-fortescue-webb)
+- [Legora is building the agentic operating system for legal work](https://contextwindow.news/article/legora-is-building-the-agentic-operating-system-for-legal-work)
+- [SLAM Navigation For an Arduino Powered Car](https://contextwindow.news/article/slam-navigation-for-an-arduino-powered-car)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
