@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Emulate the 486 in Your Browser](https://contextwindow.news/article/emulate-the-486-in-your-browser)
-- [Everything Important in Anthropic s IPO Prospectus](https://contextwindow.news/article/everything-important-in-anthropic-s-ipo-prospectus)
-- [Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb](https://contextwindow.news/article/faster-contract-review-broader-legal-analysis-or-legoras-alex-fortescue-webb)
-- [Legora is building the agentic operating system for legal work](https://contextwindow.news/article/legora-is-building-the-agentic-operating-system-for-legal-work)
-- [SLAM Navigation For an Arduino Powered Car](https://contextwindow.news/article/slam-navigation-for-an-arduino-powered-car)
+- [An AI Chatbot for the Apocalypse](https://contextwindow.news/article/an-ai-chatbot-for-the-apocalypse)
+- [Google had a very good, very bad Q3](https://contextwindow.news/article/google-had-a-very-good-very-bad-q3)
+- [Magnetic Lock Opens By Magic](https://contextwindow.news/article/magnetic-lock-opens-by-magic)
+- [2026 Retrocomputing Challenge: Custom RISC-V Processor For Retro System](https://contextwindow.news/article/2026-retrocomputing-challenge-custom-risc-v-processor-for-retro-system)
+- [Battery Prototype Uses Superextensive Quantum Effects to Charge Faster](https://contextwindow.news/article/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
