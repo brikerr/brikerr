@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI Chatbot for the Apocalypse](https://contextwindow.news/article/an-ai-chatbot-for-the-apocalypse)
-- [Google had a very good, very bad Q3](https://contextwindow.news/article/google-had-a-very-good-very-bad-q3)
-- [Magnetic Lock Opens By Magic](https://contextwindow.news/article/magnetic-lock-opens-by-magic)
-- [2026 Retrocomputing Challenge: Custom RISC-V Processor For Retro System](https://contextwindow.news/article/2026-retrocomputing-challenge-custom-risc-v-processor-for-retro-system)
-- [Battery Prototype Uses Superextensive Quantum Effects to Charge Faster](https://contextwindow.news/article/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster)
+- [YouTube for Google TV update gives YouTube Music a distracting red logo I can’t stand](https://contextwindow.news/article/youtube-for-google-tv-update-gives-youtube-music-a-distracting-red-logo-i-cant-stand)
+- [The Sounds of the World, One Random Album at a Time](https://contextwindow.news/article/the-sounds-of-the-world-one-random-album-at-a-time)
+- [Google is Technically Winning... But at What Cost?](https://contextwindow.news/article/google-is-technically-winning-but-at-what-cost)
+- [Google rolling out software updates for these Nest Cam and Doorbell models](https://contextwindow.news/article/google-rolling-out-software-updates-for-these-nest-cam-and-doorbell-models)
+- [New Leading AI Models as Benchmarks Shift](https://contextwindow.news/article/new-leading-ai-models-as-benchmarks-shift)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
