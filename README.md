@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube for Google TV update gives YouTube Music a distracting red logo I can’t stand](https://contextwindow.news/article/youtube-for-google-tv-update-gives-youtube-music-a-distracting-red-logo-i-cant-stand)
-- [The Sounds of the World, One Random Album at a Time](https://contextwindow.news/article/the-sounds-of-the-world-one-random-album-at-a-time)
-- [Google is Technically Winning... But at What Cost?](https://contextwindow.news/article/google-is-technically-winning-but-at-what-cost)
-- [Google rolling out software updates for these Nest Cam and Doorbell models](https://contextwindow.news/article/google-rolling-out-software-updates-for-these-nest-cam-and-doorbell-models)
-- [New Leading AI Models as Benchmarks Shift](https://contextwindow.news/article/new-leading-ai-models-as-benchmarks-shift)
+- [Learn to Edit STL Files in Just a Few Minutes](https://contextwindow.news/article/learn-to-edit-stl-files-in-just-a-few-minutes)
+- [3D Printed Einstein-Szilard Refrigerator Cools with Fire](https://contextwindow.news/article/3d-printed-einstein-szilard-refrigerator-cools-with-fire)
+- [Novelty Camera To USB Camera](https://contextwindow.news/article/novelty-camera-to-usb-camera)
+- [VR Headset Ditches the Base Stations with DIY Tracking](https://contextwindow.news/article/vr-headset-ditches-the-base-stations-with-diy-tracking)
+- [A 1982 Modem for $100](https://contextwindow.news/article/a-1982-modem-for-dollar100)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
