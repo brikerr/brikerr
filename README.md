@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn to Edit STL Files in Just a Few Minutes](https://contextwindow.news/article/learn-to-edit-stl-files-in-just-a-few-minutes)
-- [3D Printed Einstein-Szilard Refrigerator Cools with Fire](https://contextwindow.news/article/3d-printed-einstein-szilard-refrigerator-cools-with-fire)
-- [Novelty Camera To USB Camera](https://contextwindow.news/article/novelty-camera-to-usb-camera)
-- [VR Headset Ditches the Base Stations with DIY Tracking](https://contextwindow.news/article/vr-headset-ditches-the-base-stations-with-diy-tracking)
-- [A 1982 Modem for $100](https://contextwindow.news/article/a-1982-modem-for-dollar100)
+- [Turning Syngas into Hydrocarbons with the Right Alpha](https://contextwindow.news/article/turning-syngas-into-hydrocarbons-with-the-right-alpha)
+- [Building an ADS-B Receiver For Less Than You Think](https://contextwindow.news/article/building-an-ads-b-receiver-for-less-than-you-think)
+- [Huge PalmOS Development Archive Goes Online, Thanks to Personal Backups](https://contextwindow.news/article/huge-palmos-development-archive-goes-online-thanks-to-personal-backups)
+- [Upgrading an Action Camera with an External Battery](https://contextwindow.news/article/upgrading-an-action-camera-with-an-external-battery)
+- [Rooting an Amazon Echo Dot](https://contextwindow.news/article/rooting-an-amazon-echo-dot)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
