@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Syngas into Hydrocarbons with the Right Alpha](https://contextwindow.news/article/turning-syngas-into-hydrocarbons-with-the-right-alpha)
-- [Building an ADS-B Receiver For Less Than You Think](https://contextwindow.news/article/building-an-ads-b-receiver-for-less-than-you-think)
-- [Huge PalmOS Development Archive Goes Online, Thanks to Personal Backups](https://contextwindow.news/article/huge-palmos-development-archive-goes-online-thanks-to-personal-backups)
-- [Upgrading an Action Camera with an External Battery](https://contextwindow.news/article/upgrading-an-action-camera-with-an-external-battery)
-- [Rooting an Amazon Echo Dot](https://contextwindow.news/article/rooting-an-amazon-echo-dot)
+- [Looking For A Cellular Modem?](https://contextwindow.news/article/looking-for-a-cellular-modem)
+- [Introducing the Grid Protectors Program](https://contextwindow.news/article/introducing-the-grid-protectors-program)
+- [Launching TypeSafe AI's site in 4 days with the Framer Agent](https://contextwindow.news/article/launching-typesafe-ais-site-in-4-days-with-the-framer-agent)
+- [Google Messages update rolling out new app icon with gradient design](https://contextwindow.news/article/google-messages-update-rolling-out-new-app-icon-with-gradient-design)
+- [Big Tech Just Bet Everything on the AI Crash](https://contextwindow.news/article/big-tech-just-bet-everything-on-the-ai-crash)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
