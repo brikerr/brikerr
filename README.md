@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking For A Cellular Modem?](https://contextwindow.news/article/looking-for-a-cellular-modem)
-- [Introducing the Grid Protectors Program](https://contextwindow.news/article/introducing-the-grid-protectors-program)
-- [Launching TypeSafe AI's site in 4 days with the Framer Agent](https://contextwindow.news/article/launching-typesafe-ais-site-in-4-days-with-the-framer-agent)
-- [Google Messages update rolling out new app icon with gradient design](https://contextwindow.news/article/google-messages-update-rolling-out-new-app-icon-with-gradient-design)
-- [Big Tech Just Bet Everything on the AI Crash](https://contextwindow.news/article/big-tech-just-bet-everything-on-the-ai-crash)
+- [Google’s Ocarina of Time easter egg is a blast from the past](https://contextwindow.news/article/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past)
+- [Android gaming is having a renaissance](https://contextwindow.news/article/android-gaming-is-having-a-renaissance)
+- [The Components for Life May Not Have Arrived By Comet](https://contextwindow.news/article/the-components-for-life-may-not-have-arrived-by-comet)
+- [Heimstaden is changing residential real estate management with AI](https://contextwindow.news/article/heimstaden-is-changing-residential-real-estate-management-with-ai)
+- [NEMESIS Gives You Control Over Your Hyundai Head Unit](https://contextwindow.news/article/nemesis-gives-you-control-over-your-hyundai-head-unit)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
