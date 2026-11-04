@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Ocarina of Time easter egg is a blast from the past](https://contextwindow.news/article/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past)
-- [Android gaming is having a renaissance](https://contextwindow.news/article/android-gaming-is-having-a-renaissance)
-- [The Components for Life May Not Have Arrived By Comet](https://contextwindow.news/article/the-components-for-life-may-not-have-arrived-by-comet)
-- [Heimstaden is changing residential real estate management with AI](https://contextwindow.news/article/heimstaden-is-changing-residential-real-estate-management-with-ai)
-- [NEMESIS Gives You Control Over Your Hyundai Head Unit](https://contextwindow.news/article/nemesis-gives-you-control-over-your-hyundai-head-unit)
+- [A Ridiculous Journey to Set the Clock in a 2014 Renault](https://contextwindow.news/article/a-ridiculous-journey-to-set-the-clock-in-a-2014-renault)
+- [Elon Might Destroy Grok Bot](https://contextwindow.news/article/elon-might-destroy-grok-bot)
+- [Reading Data from an Unwilling Blood Pressure Monitor](https://contextwindow.news/article/reading-data-from-an-unwilling-blood-pressure-monitor)
+- [As LLMs Devour the Storage Market, Fujifilm Bets on Tape](https://contextwindow.news/article/as-llms-devour-the-storage-market-fujifilm-bets-on-tape)
+- [Cat Feeder Ensures Fed Cats](https://contextwindow.news/article/cat-feeder-ensures-fed-cats)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
