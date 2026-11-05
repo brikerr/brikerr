@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [A Ridiculous Journey to Set the Clock in a 2014 Renault](https://contextwindow.news/article/a-ridiculous-journey-to-set-the-clock-in-a-2014-renault)
-- [Elon Might Destroy Grok Bot](https://contextwindow.news/article/elon-might-destroy-grok-bot)
-- [Reading Data from an Unwilling Blood Pressure Monitor](https://contextwindow.news/article/reading-data-from-an-unwilling-blood-pressure-monitor)
-- [As LLMs Devour the Storage Market, Fujifilm Bets on Tape](https://contextwindow.news/article/as-llms-devour-the-storage-market-fujifilm-bets-on-tape)
-- [Cat Feeder Ensures Fed Cats](https://contextwindow.news/article/cat-feeder-ensures-fed-cats)
+- [Motorola Signature 27 gets Pixel’s Gemini Intelligence features with Rambler, Create My Widget](https://contextwindow.news/article/motorola-signature-27-gets-pixels-gemini-intelligence-features-with-rambler-create-my-widget)
+- [Moto Buds Ultra 27 and Watch Fit 27 help complete the company’s new premium ecosystem](https://contextwindow.news/article/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-companys-new-premium-ecosystem)
+- [Motorola Signature 27 goes official with true flagship specs and a $1,599 price tag](https://contextwindow.news/article/motorola-signature-27-goes-official-with-true-flagship-specs-and-a-dollar1599-price-tag)
+- [Finger Joint Cutter Uses a Jigsaw Blade, But Not As We Know It](https://contextwindow.news/article/finger-joint-cutter-uses-a-jigsaw-blade-but-not-as-we-know-it)
+- [Google’s AI search fumbles leave schools in the lurch](https://contextwindow.news/article/googles-ai-search-fumbles-leave-schools-in-the-lurch)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
