@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Motorola Signature 27 gets Pixel’s Gemini Intelligence features with Rambler, Create My Widget](https://contextwindow.news/article/motorola-signature-27-gets-pixels-gemini-intelligence-features-with-rambler-create-my-widget)
-- [Moto Buds Ultra 27 and Watch Fit 27 help complete the company’s new premium ecosystem](https://contextwindow.news/article/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-companys-new-premium-ecosystem)
-- [Motorola Signature 27 goes official with true flagship specs and a $1,599 price tag](https://contextwindow.news/article/motorola-signature-27-goes-official-with-true-flagship-specs-and-a-dollar1599-price-tag)
-- [Finger Joint Cutter Uses a Jigsaw Blade, But Not As We Know It](https://contextwindow.news/article/finger-joint-cutter-uses-a-jigsaw-blade-but-not-as-we-know-it)
-- [Google’s AI search fumbles leave schools in the lurch](https://contextwindow.news/article/googles-ai-search-fumbles-leave-schools-in-the-lurch)
+- [You can get a Philips Hue outdoor light strip for nearly 40% off right now](https://contextwindow.news/article/you-can-get-a-philips-hue-outdoor-light-strip-for-nearly-40percent-off-right-now)
+- [The Goat Emoji Is 100% Valid Machine Code, and It Doesn’t Stop There](https://contextwindow.news/article/the-goat-emoji-is-100percent-valid-machine-code-and-it-doesnt-stop-there)
+- [Making Xibalba 64, a New N64 Release in 2026](https://contextwindow.news/article/making-xibalba-64-a-new-n64-release-in-2026)
+- [Translating An Old Display To A New One](https://contextwindow.news/article/translating-an-old-display-to-a-new-one)
+- [The AI backlash needs a plan](https://contextwindow.news/article/the-ai-backlash-needs-a-plan)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
