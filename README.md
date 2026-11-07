@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [You can get a Philips Hue outdoor light strip for nearly 40% off right now](https://contextwindow.news/article/you-can-get-a-philips-hue-outdoor-light-strip-for-nearly-40percent-off-right-now)
-- [The Goat Emoji Is 100% Valid Machine Code, and It Doesn’t Stop There](https://contextwindow.news/article/the-goat-emoji-is-100percent-valid-machine-code-and-it-doesnt-stop-there)
-- [Making Xibalba 64, a New N64 Release in 2026](https://contextwindow.news/article/making-xibalba-64-a-new-n64-release-in-2026)
-- [Translating An Old Display To A New One](https://contextwindow.news/article/translating-an-old-display-to-a-new-one)
-- [The AI backlash needs a plan](https://contextwindow.news/article/the-ai-backlash-needs-a-plan)
+- [Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon](https://contextwindow.news/article/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon)
+- [The Hidden Microcontroller Inside a LoRa chip](https://contextwindow.news/article/the-hidden-microcontroller-inside-a-lora-chip)
+- [A Bike-Friendly, DIY Action Cam Stereo Microphone](https://contextwindow.news/article/a-bike-friendly-diy-action-cam-stereo-microphone)
+- [Automate That Halloween Treating](https://contextwindow.news/article/automate-that-halloween-treating)
+- [DIY Rooftop Tent Sets Up In a Jiffy](https://contextwindow.news/article/diy-rooftop-tent-sets-up-in-a-jiffy)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
