@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a Dog Car Wash Without (very) Fancy Tools](https://contextwindow.news/article/making-a-dog-car-wash-without-very-fancy-tools)
-- [Copilot Money Just Made Budgeting WAY Smarter! [Sponsored]](https://contextwindow.news/article/copilot-money-just-made-budgeting-way-smarter-sponsored)
-- [Artemis II Rocket Was Powerful Enough to Disrupt GPS](https://contextwindow.news/article/artemis-ii-rocket-was-powerful-enough-to-disrupt-gps)
-- [Play Text Adventures on an E-Paper Handheld](https://contextwindow.news/article/play-text-adventures-on-an-e-paper-handheld)
-- [Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini](https://contextwindow.news/article/google-messages-homepage-redesign-pinned-chat-avatars-bottom-search-corner-gemini)
+- [The best deals in streaming, powered by Google TV, just got another price hike](https://contextwindow.news/article/the-best-deals-in-streaming-powered-by-google-tv-just-got-another-price-hike)
+- [The Jensen Huang Honeypot Fallout: What Happens Next](https://contextwindow.news/article/the-jensen-huang-honeypot-fallout-what-happens-next)
+- [Samsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?](https://contextwindow.news/article/samsungs-paid-galaxy-ai-plan-leaks-for-dollar5month-but-will-you-pay)
+- [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://contextwindow.news/article/nemotron-personas-finance-japan-a-synthetic-dataset-capturing-japans-demographics-and-financial-context)
+- [Radon Active](https://contextwindow.news/article/radon-active)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
