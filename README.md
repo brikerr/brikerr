@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [The best deals in streaming, powered by Google TV, just got another price hike](https://contextwindow.news/article/the-best-deals-in-streaming-powered-by-google-tv-just-got-another-price-hike)
-- [The Jensen Huang Honeypot Fallout: What Happens Next](https://contextwindow.news/article/the-jensen-huang-honeypot-fallout-what-happens-next)
-- [Samsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?](https://contextwindow.news/article/samsungs-paid-galaxy-ai-plan-leaks-for-dollar5month-but-will-you-pay)
-- [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://contextwindow.news/article/nemotron-personas-finance-japan-a-synthetic-dataset-capturing-japans-demographics-and-financial-context)
-- [Radon Active](https://contextwindow.news/article/radon-active)
+- [Meta issues a high-priority update to prevent overheating in some of its glasses](https://contextwindow.news/article/meta-issues-a-high-priority-update-to-prevent-overheating-in-some-of-its-glasses)
+- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://contextwindow.news/article/introducing-alphaproof-code-a-breakthrough-in-verifying-complex-software-at-depth)
+- [Have You Ever Heard Of the Lobo MAX-80?](https://contextwindow.news/article/have-you-ever-heard-of-the-lobo-max-80)
+- [Helping caregivers use AI in everyday life](https://contextwindow.news/article/helping-caregivers-use-ai-in-everyday-life)
+- [Samsung’s paid Galaxy AI plan has a giant Gemini problem](https://contextwindow.news/article/samsungs-paid-galaxy-ai-plan-has-a-giant-gemini-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
