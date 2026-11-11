@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta issues a high-priority update to prevent overheating in some of its glasses](https://contextwindow.news/article/meta-issues-a-high-priority-update-to-prevent-overheating-in-some-of-its-glasses)
-- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://contextwindow.news/article/introducing-alphaproof-code-a-breakthrough-in-verifying-complex-software-at-depth)
-- [Have You Ever Heard Of the Lobo MAX-80?](https://contextwindow.news/article/have-you-ever-heard-of-the-lobo-max-80)
-- [Helping caregivers use AI in everyday life](https://contextwindow.news/article/helping-caregivers-use-ai-in-everyday-life)
-- [Samsung’s paid Galaxy AI plan has a giant Gemini problem](https://contextwindow.news/article/samsungs-paid-galaxy-ai-plan-has-a-giant-gemini-problem)
+- [Android Auto is getting a Gemini upgrade, but only if you use a Pixel](https://contextwindow.news/article/android-auto-is-getting-a-gemini-upgrade-but-only-if-you-use-a-pixel)
+- [Why Engineers are Forced to Create Junk Designs](https://contextwindow.news/article/why-engineers-are-forced-to-create-junk-designs)
+- [Even Realities glasses are coming to a job site near you](https://contextwindow.news/article/even-realities-glasses-are-coming-to-a-job-site-near-you)
+- [ChatGPT Plus for veterans and servicemembers](https://contextwindow.news/article/chatgpt-plus-for-veterans-and-servicemembers)
+- [This Coffee Machine is DOOMed](https://contextwindow.news/article/this-coffee-machine-is-doomed)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
