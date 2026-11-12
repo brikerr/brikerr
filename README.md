@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Auto is getting a Gemini upgrade, but only if you use a Pixel](https://contextwindow.news/article/android-auto-is-getting-a-gemini-upgrade-but-only-if-you-use-a-pixel)
-- [Why Engineers are Forced to Create Junk Designs](https://contextwindow.news/article/why-engineers-are-forced-to-create-junk-designs)
-- [Even Realities glasses are coming to a job site near you](https://contextwindow.news/article/even-realities-glasses-are-coming-to-a-job-site-near-you)
-- [ChatGPT Plus for veterans and servicemembers](https://contextwindow.news/article/chatgpt-plus-for-veterans-and-servicemembers)
-- [This Coffee Machine is DOOMed](https://contextwindow.news/article/this-coffee-machine-is-doomed)
+- [Here’s how Google’s Android XR glasses are handling the camera & privacy](https://contextwindow.news/article/heres-how-googles-android-xr-glasses-are-handling-the-camera-and-privacy)
+- [Google’s new Android XR glasses work with iOS, Made for iPhone certified](https://contextwindow.news/article/googles-new-android-xr-glasses-work-with-ios-made-for-iphone-certified)
+- [Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20](https://contextwindow.news/article/hands-on-google-and-samsungs-vision-for-android-xr-glasses-is-2020)
+- [Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10](https://contextwindow.news/article/google-launches-intelligent-eyewear-glasses-dollar395-pre-order-today-ships-dec-10)
+- [Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses’ release](https://contextwindow.news/article/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses-release)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
