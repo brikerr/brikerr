@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s how Google’s Android XR glasses are handling the camera & privacy](https://contextwindow.news/article/heres-how-googles-android-xr-glasses-are-handling-the-camera-and-privacy)
-- [Google’s new Android XR glasses work with iOS, Made for iPhone certified](https://contextwindow.news/article/googles-new-android-xr-glasses-work-with-ios-made-for-iphone-certified)
-- [Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20](https://contextwindow.news/article/hands-on-google-and-samsungs-vision-for-android-xr-glasses-is-2020)
-- [Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10](https://contextwindow.news/article/google-launches-intelligent-eyewear-glasses-dollar395-pre-order-today-ships-dec-10)
-- [Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses’ release](https://contextwindow.news/article/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses-release)
+- [The AI That Replaces Our Jobs is Almost Here.](https://contextwindow.news/article/the-ai-that-replaces-our-jobs-is-almost-here)
+- [Fixing a Dead Socket LGA 1851 Mainboard with a Resistor](https://contextwindow.news/article/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor)
+- [Hacked Nixie Clock Waits for the Bus](https://contextwindow.news/article/hacked-nixie-clock-waits-for-the-bus)
+- [A Desktop OS for the ESP32-P4](https://contextwindow.news/article/a-desktop-os-for-the-esp32-p4)
+- [Hacking Meta’s Smart Glasses](https://contextwindow.news/article/hacking-metas-smart-glasses)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
