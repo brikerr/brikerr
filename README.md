@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI That Replaces Our Jobs is Almost Here.](https://contextwindow.news/article/the-ai-that-replaces-our-jobs-is-almost-here)
-- [Fixing a Dead Socket LGA 1851 Mainboard with a Resistor](https://contextwindow.news/article/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor)
-- [Hacked Nixie Clock Waits for the Bus](https://contextwindow.news/article/hacked-nixie-clock-waits-for-the-bus)
-- [A Desktop OS for the ESP32-P4](https://contextwindow.news/article/a-desktop-os-for-the-esp32-p4)
-- [Hacking Meta’s Smart Glasses](https://contextwindow.news/article/hacking-metas-smart-glasses)
+- [Open-source AI without Jensen](https://contextwindow.news/article/open-source-ai-without-jensen)
+- [Reverse Engineering Score Perfect to Rescue its Files](https://contextwindow.news/article/reverse-engineering-score-perfect-to-rescue-its-files)
+- [Making CO₂ Sensors Fail Visibly, Not Silently](https://contextwindow.news/article/making-co-sensors-fail-visibly-not-silently)
+- [ESP32 Flight Tracker on Apple CRT](https://contextwindow.news/article/esp32-flight-tracker-on-apple-crt)
+- [Borland C++ 2.0 Compiler Source Reconstructed](https://contextwindow.news/article/borland-c-20-compiler-source-reconstructed)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
