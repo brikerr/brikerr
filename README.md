@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source AI without Jensen](https://contextwindow.news/article/open-source-ai-without-jensen)
-- [Reverse Engineering Score Perfect to Rescue its Files](https://contextwindow.news/article/reverse-engineering-score-perfect-to-rescue-its-files)
-- [Making CO₂ Sensors Fail Visibly, Not Silently](https://contextwindow.news/article/making-co-sensors-fail-visibly-not-silently)
-- [ESP32 Flight Tracker on Apple CRT](https://contextwindow.news/article/esp32-flight-tracker-on-apple-crt)
-- [Borland C++ 2.0 Compiler Source Reconstructed](https://contextwindow.news/article/borland-c-20-compiler-source-reconstructed)
+- [Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos](https://contextwindow.news/article/metas-muse-how-we-launched-the-most-successful-consumer-product-this-year-or-mona-sarantakos)
+- [An MP3 Player, Implemented As A Factorio Blueprint](https://contextwindow.news/article/an-mp3-player-implemented-as-a-factorio-blueprint)
+- [Reverse Engineer that USB Device in Style](https://contextwindow.news/article/reverse-engineer-that-usb-device-in-style)
+- [Bringing a Cloud Based Monitor Home](https://contextwindow.news/article/bringing-a-cloud-based-monitor-home)
+- [RPN Loved Honk If (or, Write Your Own PostScript Interpreter)](https://contextwindow.news/article/rpn-loved-honk-if-or-write-your-own-postscript-interpreter)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
