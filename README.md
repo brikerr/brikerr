@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Intelligent Eyewear glasses from Gentle Monster are already sold out](https://contextwindow.news/article/googles-intelligent-eyewear-glasses-from-gentle-monster-are-already-sold-out)
-- [Save serious money with RedPocket Mobile’s $5 Black Friday plans](https://contextwindow.news/article/save-serious-money-with-redpocket-mobiles-dollar5-black-friday-plans)
-- [On-Demand Development Boards With Remote Access Methods](https://contextwindow.news/article/on-demand-development-boards-with-remote-access-methods)
-- [Google Maps rolling out travel itineraries & list search for Ask Maps](https://contextwindow.news/article/google-maps-rolling-out-travel-itineraries-and-list-search-for-ask-maps)
-- [ESP32 WIFI Jam Detector Finds the Raspberry](https://contextwindow.news/article/esp32-wifi-jam-detector-finds-the-raspberry)
+- [Instagram launches dedicated ‘Direct’ messaging app that basically no one can use yet](https://contextwindow.news/article/instagram-launches-dedicated-direct-messaging-app-that-basically-no-one-can-use-yet)
+- [The $50 Per Hour Search Engine](https://contextwindow.news/article/the-dollar50-per-hour-search-engine)
+- [Google Voice app gets a redesign on Android, and it screams RCS [Gallery]](https://contextwindow.news/article/google-voice-app-gets-a-redesign-on-android-and-it-screams-rcs-gallery)
+- [Oppo may finally be fixing broken 3rd-party launchers with ColorOS 17](https://contextwindow.news/article/oppo-may-finally-be-fixing-broken-3rd-party-launchers-with-coloros-17)
+- [XREAL Aura Initial Review: Taking Android XR out of the headset, but who is it for?](https://contextwindow.news/article/xreal-aura-initial-review-taking-android-xr-out-of-the-headset-but-who-is-it-for)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
