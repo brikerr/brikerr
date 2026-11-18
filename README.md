@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram launches dedicated ‘Direct’ messaging app that basically no one can use yet](https://contextwindow.news/article/instagram-launches-dedicated-direct-messaging-app-that-basically-no-one-can-use-yet)
-- [The $50 Per Hour Search Engine](https://contextwindow.news/article/the-dollar50-per-hour-search-engine)
-- [Google Voice app gets a redesign on Android, and it screams RCS [Gallery]](https://contextwindow.news/article/google-voice-app-gets-a-redesign-on-android-and-it-screams-rcs-gallery)
-- [Oppo may finally be fixing broken 3rd-party launchers with ColorOS 17](https://contextwindow.news/article/oppo-may-finally-be-fixing-broken-3rd-party-launchers-with-coloros-17)
-- [XREAL Aura Initial Review: Taking Android XR out of the headset, but who is it for?](https://contextwindow.news/article/xreal-aura-initial-review-taking-android-xr-out-of-the-headset-but-who-is-it-for)
+- [We’re Hiring: Come Join Us!](https://contextwindow.news/article/were-hiring-come-join-us)
+- [Pebblebee Alert Dispatch lets an actual human respond to your emergency, triggered by Find Hub trackers](https://contextwindow.news/article/pebblebee-alert-dispatch-lets-an-actual-human-respond-to-your-emergency-triggered-by-find-hub-trackers)
+- [AAWireless releases new, smaller Nexus and Nano wireless Android Auto adapters](https://contextwindow.news/article/aawireless-releases-new-smaller-nexus-and-nano-wireless-android-auto-adapters)
+- [Samsung releases its next major update, One UI 9.5, in beta for Galaxy S26 – what’s new](https://contextwindow.news/article/samsung-releases-its-next-major-update-one-ui-95-in-beta-for-galaxy-s26-whats-new)
+- [Local Prusa Connect Cuts Out the Cloud](https://contextwindow.news/article/local-prusa-connect-cuts-out-the-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
