@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re Hiring: Come Join Us!](https://contextwindow.news/article/were-hiring-come-join-us)
-- [Pebblebee Alert Dispatch lets an actual human respond to your emergency, triggered by Find Hub trackers](https://contextwindow.news/article/pebblebee-alert-dispatch-lets-an-actual-human-respond-to-your-emergency-triggered-by-find-hub-trackers)
-- [AAWireless releases new, smaller Nexus and Nano wireless Android Auto adapters](https://contextwindow.news/article/aawireless-releases-new-smaller-nexus-and-nano-wireless-android-auto-adapters)
-- [Samsung releases its next major update, One UI 9.5, in beta for Galaxy S26 – what’s new](https://contextwindow.news/article/samsung-releases-its-next-major-update-one-ui-95-in-beta-for-galaxy-s26-whats-new)
-- [Local Prusa Connect Cuts Out the Cloud](https://contextwindow.news/article/local-prusa-connect-cuts-out-the-cloud)
+- [Monitors that Throttle Downloads](https://contextwindow.news/article/monitors-that-throttle-downloads)
+- [Google Store Black Friday 2026: Refurb Pixel discounts, Fitbit Edge trade-in, more](https://contextwindow.news/article/google-store-black-friday-2026-refurb-pixel-discounts-fitbit-edge-trade-in-more)
+- [Motorola Razr Flex leaks in real life with Fold 8 and iPhone Duo shape, mystery chipset](https://contextwindow.news/article/motorola-razr-flex-leaks-in-real-life-with-fold-8-and-iphone-duo-shape-mystery-chipset)
+- [All my favorite XREAL glasses are at their lowest price ever for Black Friday](https://contextwindow.news/article/all-my-favorite-xreal-glasses-are-at-their-lowest-price-ever-for-black-friday)
+- [Are the Galaxy Buds 4 Pro the best earbuds for you?](https://contextwindow.news/article/are-the-galaxy-buds-4-pro-the-best-earbuds-for-you)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
