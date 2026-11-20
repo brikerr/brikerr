@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitors that Throttle Downloads](https://contextwindow.news/article/monitors-that-throttle-downloads)
-- [Google Store Black Friday 2026: Refurb Pixel discounts, Fitbit Edge trade-in, more](https://contextwindow.news/article/google-store-black-friday-2026-refurb-pixel-discounts-fitbit-edge-trade-in-more)
-- [Motorola Razr Flex leaks in real life with Fold 8 and iPhone Duo shape, mystery chipset](https://contextwindow.news/article/motorola-razr-flex-leaks-in-real-life-with-fold-8-and-iphone-duo-shape-mystery-chipset)
-- [All my favorite XREAL glasses are at their lowest price ever for Black Friday](https://contextwindow.news/article/all-my-favorite-xreal-glasses-are-at-their-lowest-price-ever-for-black-friday)
-- [Are the Galaxy Buds 4 Pro the best earbuds for you?](https://contextwindow.news/article/are-the-galaxy-buds-4-pro-the-best-earbuds-for-you)
+- [This Week In Security: Java4Shell, Optimizely Malware, Shrinking Disclosure Deadlines, Unpatchable Freezers](https://contextwindow.news/article/this-week-in-security-java4shell-optimizely-malware-shrinking-disclosure-deadlines-unpatchable-freezers)
+- [Waterdrop Filter’s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems](https://contextwindow.news/article/waterdrop-filters-black-friday-sale-brings-big-savings-on-under-sink-countertop-and-whole-home-systems)
+- [Motorola confirms list of devices getting Android 17 updates](https://contextwindow.news/article/motorola-confirms-list-of-devices-getting-android-17-updates)
+- [The Galaxy Watch 8 is a steal at just $200 right now on Amazon](https://contextwindow.news/article/the-galaxy-watch-8-is-a-steal-at-just-dollar200-right-now-on-amazon)
+- [Moto Tag 2 hits its lowest price ever at $18.99, undercutting the Pixel Tag](https://contextwindow.news/article/moto-tag-2-hits-its-lowest-price-ever-at-dollar1899-undercutting-the-pixel-tag)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
