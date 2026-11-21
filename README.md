@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In Security: Java4Shell, Optimizely Malware, Shrinking Disclosure Deadlines, Unpatchable Freezers](https://contextwindow.news/article/this-week-in-security-java4shell-optimizely-malware-shrinking-disclosure-deadlines-unpatchable-freezers)
-- [Waterdrop Filter’s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems](https://contextwindow.news/article/waterdrop-filters-black-friday-sale-brings-big-savings-on-under-sink-countertop-and-whole-home-systems)
-- [Motorola confirms list of devices getting Android 17 updates](https://contextwindow.news/article/motorola-confirms-list-of-devices-getting-android-17-updates)
-- [The Galaxy Watch 8 is a steal at just $200 right now on Amazon](https://contextwindow.news/article/the-galaxy-watch-8-is-a-steal-at-just-dollar200-right-now-on-amazon)
-- [Moto Tag 2 hits its lowest price ever at $18.99, undercutting the Pixel Tag](https://contextwindow.news/article/moto-tag-2-hits-its-lowest-price-ever-at-dollar1899-undercutting-the-pixel-tag)
+- [Custom Firmware For The CMU200](https://contextwindow.news/article/custom-firmware-for-the-cmu200)
+- [HDMI to CSI For Anyone](https://contextwindow.news/article/hdmi-to-csi-for-anyone)
+- [Printable Homelab Racks You Can Design In A Browser](https://contextwindow.news/article/printable-homelab-racks-you-can-design-in-a-browser)
+- [Improving Aluminium Anodes for Lithium Batteries With Manganese](https://contextwindow.news/article/improving-aluminium-anodes-for-lithium-batteries-with-manganese)
+- [Decapitation Seems Like a Great Way to Start X-Mas Decorating](https://contextwindow.news/article/decapitation-seems-like-a-great-way-to-start-x-mas-decorating)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
