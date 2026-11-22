@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Firmware For The CMU200](https://contextwindow.news/article/custom-firmware-for-the-cmu200)
-- [HDMI to CSI For Anyone](https://contextwindow.news/article/hdmi-to-csi-for-anyone)
-- [Printable Homelab Racks You Can Design In A Browser](https://contextwindow.news/article/printable-homelab-racks-you-can-design-in-a-browser)
-- [Improving Aluminium Anodes for Lithium Batteries With Manganese](https://contextwindow.news/article/improving-aluminium-anodes-for-lithium-batteries-with-manganese)
-- [Decapitation Seems Like a Great Way to Start X-Mas Decorating](https://contextwindow.news/article/decapitation-seems-like-a-great-way-to-start-x-mas-decorating)
+- [What Should Engineers Do When AI Writes All the Code | Charles Lamanna (EVP Microsoft)](https://contextwindow.news/article/what-should-engineers-do-when-ai-writes-all-the-code-or-charles-lamanna-evp-microsoft)
+- [The Google Home app is better than Nest alone ever was, mostly](https://contextwindow.news/article/the-google-home-app-is-better-than-nest-alone-ever-was-mostly)
+- [First principles: What it takes to be a great product manager in the AI era | Sherif Mansour](https://contextwindow.news/article/first-principles-what-it-takes-to-be-a-great-product-manager-in-the-ai-era-or-sherif-mansour)
+- [The new rules of product management in the AI era | Sherif Mansour (Head of AI, Atlassian)](https://contextwindow.news/article/the-new-rules-of-product-management-in-the-ai-era-or-sherif-mansour-head-of-ai-atlassian)
+- [Your questions about Apple HomeView’s audio, answered](https://contextwindow.news/article/your-questions-about-apple-homeviews-audio-answered)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
