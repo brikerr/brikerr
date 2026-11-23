@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [What Should Engineers Do When AI Writes All the Code | Charles Lamanna (EVP Microsoft)](https://contextwindow.news/article/what-should-engineers-do-when-ai-writes-all-the-code-or-charles-lamanna-evp-microsoft)
-- [The Google Home app is better than Nest alone ever was, mostly](https://contextwindow.news/article/the-google-home-app-is-better-than-nest-alone-ever-was-mostly)
-- [First principles: What it takes to be a great product manager in the AI era | Sherif Mansour](https://contextwindow.news/article/first-principles-what-it-takes-to-be-a-great-product-manager-in-the-ai-era-or-sherif-mansour)
-- [The new rules of product management in the AI era | Sherif Mansour (Head of AI, Atlassian)](https://contextwindow.news/article/the-new-rules-of-product-management-in-the-ai-era-or-sherif-mansour-head-of-ai-atlassian)
-- [Your questions about Apple HomeView’s audio, answered](https://contextwindow.news/article/your-questions-about-apple-homeviews-audio-answered)
+- [AI Mode adding Google Drive, Wallet, & Gemini app integration](https://contextwindow.news/article/ai-mode-adding-google-drive-wallet-and-gemini-app-integration)
+- [GrapheneOS shows off how it plans RCS support without Google Messages](https://contextwindow.news/article/grapheneos-shows-off-how-it-plans-rcs-support-without-google-messages)
+- [Chromecast with Google TV gets first update of 2026 [U: Wide rollout]](https://contextwindow.news/article/chromecast-with-google-tv-gets-first-update-of-2026-u-wide-rollout)
+- [Black Friday deals: New Android Alexa Tablets from $130, Echo smart speakers up to 60% off, Anker charger sale, more](https://contextwindow.news/article/black-friday-deals-new-android-alexa-tablets-from-dollar130-echo-smart-speakers-up-to-60percent-off-anker-charger-sale-more)
+- [Lenovo’s $900 Legion Tab is discounted to a price you might actually pay for Black Friday](https://contextwindow.news/article/lenovos-dollar900-legion-tab-is-discounted-to-a-price-you-might-actually-pay-for-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
