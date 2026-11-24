@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Mode adding Google Drive, Wallet, & Gemini app integration](https://contextwindow.news/article/ai-mode-adding-google-drive-wallet-and-gemini-app-integration)
-- [GrapheneOS shows off how it plans RCS support without Google Messages](https://contextwindow.news/article/grapheneos-shows-off-how-it-plans-rcs-support-without-google-messages)
-- [Chromecast with Google TV gets first update of 2026 [U: Wide rollout]](https://contextwindow.news/article/chromecast-with-google-tv-gets-first-update-of-2026-u-wide-rollout)
-- [Black Friday deals: New Android Alexa Tablets from $130, Echo smart speakers up to 60% off, Anker charger sale, more](https://contextwindow.news/article/black-friday-deals-new-android-alexa-tablets-from-dollar130-echo-smart-speakers-up-to-60percent-off-anker-charger-sale-more)
-- [Lenovo’s $900 Legion Tab is discounted to a price you might actually pay for Black Friday](https://contextwindow.news/article/lenovos-dollar900-legion-tab-is-discounted-to-a-price-you-might-actually-pay-for-black-friday)
+- [Black Friday deals: Pixel 11 $692, Pixel Watch 5 even lower, Galaxy Buds 4 Pro $80 off, Dell PCs $1,000 off, more](https://contextwindow.news/article/black-friday-deals-pixel-11-dollar692-pixel-watch-5-even-lower-galaxy-buds-4-pro-dollar80-off-dell-pcs-dollar1000-off-more)
+- [Lenovo Legion Go Beam appeals to cloud and Android gamers with 120Hz display](https://contextwindow.news/article/lenovo-legion-go-beam-appeals-to-cloud-and-android-gamers-with-120hz-display)
+- [Yes, the Pixel 10 is still a great buy [Video]](https://contextwindow.news/article/yes-the-pixel-10-is-still-a-great-buy-video)
+- [Designing A Passively Morphing Quadcopter that can Fly Through Gaps](https://contextwindow.news/article/designing-a-passively-morphing-quadcopter-that-can-fly-through-gaps)
+- [Disney+ and Hulu drops to $4.99/month for a year as Black Friday’s best streaming deals go live](https://contextwindow.news/article/disney-and-hulu-drops-to-dollar499month-for-a-year-as-black-fridays-best-streaming-deals-go-live)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
