@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Friday deals: Pixel 11 $692, Pixel Watch 5 even lower, Galaxy Buds 4 Pro $80 off, Dell PCs $1,000 off, more](https://contextwindow.news/article/black-friday-deals-pixel-11-dollar692-pixel-watch-5-even-lower-galaxy-buds-4-pro-dollar80-off-dell-pcs-dollar1000-off-more)
-- [Lenovo Legion Go Beam appeals to cloud and Android gamers with 120Hz display](https://contextwindow.news/article/lenovo-legion-go-beam-appeals-to-cloud-and-android-gamers-with-120hz-display)
-- [Yes, the Pixel 10 is still a great buy [Video]](https://contextwindow.news/article/yes-the-pixel-10-is-still-a-great-buy-video)
-- [Designing A Passively Morphing Quadcopter that can Fly Through Gaps](https://contextwindow.news/article/designing-a-passively-morphing-quadcopter-that-can-fly-through-gaps)
-- [Disney+ and Hulu drops to $4.99/month for a year as Black Friday’s best streaming deals go live](https://contextwindow.news/article/disney-and-hulu-drops-to-dollar499month-for-a-year-as-black-fridays-best-streaming-deals-go-live)
+- [Black Friday deals: Galaxy S series phones from $500, A series $230, Legion Go S $710 off, Google Find Hub trackers $16 each, more](https://contextwindow.news/article/black-friday-deals-galaxy-s-series-phones-from-dollar500-a-series-dollar230-legion-go-s-dollar710-off-google-find-hub-trackers-dollar16-each-more)
+- [Voyager 1 Stops Sending Data, Reaches One Light-Day from Earth](https://contextwindow.news/article/voyager-1-stops-sending-data-reaches-one-light-day-from-earth)
+- [Nearly every major smartphone brand is slashing targets for 2027](https://contextwindow.news/article/nearly-every-major-smartphone-brand-is-slashing-targets-for-2027)
+- [Samsung’s Galaxy Z Fold 9 lineup looks like it’ll include a new TriFold, leak suggests](https://contextwindow.news/article/samsungs-galaxy-z-fold-9-lineup-looks-like-itll-include-a-new-trifold-leak-suggests)
+- [The Galaxy A56 is a decent starter phone at just $299 right now](https://contextwindow.news/article/the-galaxy-a56-is-a-decent-starter-phone-at-just-dollar299-right-now)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
