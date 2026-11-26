@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Friday deals: Galaxy S series phones from $500, A series $230, Legion Go S $710 off, Google Find Hub trackers $16 each, more](https://contextwindow.news/article/black-friday-deals-galaxy-s-series-phones-from-dollar500-a-series-dollar230-legion-go-s-dollar710-off-google-find-hub-trackers-dollar16-each-more)
-- [Voyager 1 Stops Sending Data, Reaches One Light-Day from Earth](https://contextwindow.news/article/voyager-1-stops-sending-data-reaches-one-light-day-from-earth)
-- [Nearly every major smartphone brand is slashing targets for 2027](https://contextwindow.news/article/nearly-every-major-smartphone-brand-is-slashing-targets-for-2027)
-- [Samsung’s Galaxy Z Fold 9 lineup looks like it’ll include a new TriFold, leak suggests](https://contextwindow.news/article/samsungs-galaxy-z-fold-9-lineup-looks-like-itll-include-a-new-trifold-leak-suggests)
-- [The Galaxy A56 is a decent starter phone at just $299 right now](https://contextwindow.news/article/the-galaxy-a56-is-a-decent-starter-phone-at-just-dollar299-right-now)
+- [iOS 27.3 Adds NEW Features to 6 iPhone Apps! Here's What You NEED To Know!](https://contextwindow.news/article/ios-273-adds-new-features-to-6-iphone-apps-heres-what-you-need-to-know)
+- [The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time](https://contextwindow.news/article/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time)
+- [Scientific Analysis of Nontraditional Garden Watering Method](https://contextwindow.news/article/scientific-analysis-of-nontraditional-garden-watering-method)
+- [Best Thanksgiving deals: Google Pixel Watch 5, Pixel 11, Fold 8, accessories, TVs,  more](https://contextwindow.news/article/best-thanksgiving-deals-google-pixel-watch-5-pixel-11-fold-8-accessories-tvs-more)
+- [YouTube’s Black Friday sale could save you as much as $66 on streaming services](https://contextwindow.news/article/youtubes-black-friday-sale-could-save-you-as-much-as-dollar66-on-streaming-services)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
