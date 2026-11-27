@@ -27,11 +27,11 @@ Site: [briankerr.design](https://www.briankerr.design)
 ### Latest from The Context Window
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 27.3 Adds NEW Features to 6 iPhone Apps! Here's What You NEED To Know!](https://contextwindow.news/article/ios-273-adds-new-features-to-6-iphone-apps-heres-what-you-need-to-know)
-- [The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time](https://contextwindow.news/article/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time)
-- [Scientific Analysis of Nontraditional Garden Watering Method](https://contextwindow.news/article/scientific-analysis-of-nontraditional-garden-watering-method)
-- [Best Thanksgiving deals: Google Pixel Watch 5, Pixel 11, Fold 8, accessories, TVs,  more](https://contextwindow.news/article/best-thanksgiving-deals-google-pixel-watch-5-pixel-11-fold-8-accessories-tvs-more)
-- [YouTube’s Black Friday sale could save you as much as $66 on streaming services](https://contextwindow.news/article/youtubes-black-friday-sale-could-save-you-as-much-as-dollar66-on-streaming-services)
+- [Google Docs can now do more with Microsoft Word documents without converting the file](https://contextwindow.news/article/google-docs-can-now-do-more-with-microsoft-word-documents-without-converting-the-file)
+- [Android app developers will have to publicly post address, phone number in 2027](https://contextwindow.news/article/android-app-developers-will-have-to-publicly-post-address-phone-number-in-2027)
+- [When Google Store Black Friday 2026 deals end: Schedule](https://contextwindow.news/article/when-google-store-black-friday-2026-deals-end-schedule)
+- [Overtime Episode 092: The obvious answer is AirPods Pro 3](https://contextwindow.news/article/overtime-episode-092-the-obvious-answer-is-airpods-pro-3)
+- [Tech We're Thankful For](https://contextwindow.news/article/tech-were-thankful-for)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
